@@ -1,0 +1,12 @@
+{
+  "total_providers": 5410,
+  "risk_distribution": {
+    "Low": 4602,
+    "Medium": 353,
+    "High": 299,
+    "Critical": 156
+  },
+  "avg_hybrid_score": 15.192139972674786,
+  "critical_count": 156,
+  "high_count": 299
+}

@@ -1,0 +1,85 @@
+Table,Column,Dtype,Missing,Unique,SampleValues,PrimaryKeyCandidate,Description
+labels,Provider,str,0,5410,"['PRV51001', 'PRV51003', 'PRV51004']",True,Unique healthcare provider identifier (primary key for provider-level analysis)
+labels,PotentialFraud,str,0,2,"['No', 'Yes']",False,"Fraud label: Yes/No at provider level (training only). Investigation signal, not proof."
+beneficiary,BeneID,str,0,138556,"['BENE11001', 'BENE11002', 'BENE11003']",True,Beneficiary identifier (de-identified)
+beneficiary,DOB,str,0,900,"['1943-01-01', '1936-09-01', '1936-08-01']",False,Date of birth (beneficiary)
+beneficiary,DOD,str,137135,11,"['2009-12-01', '2009-09-01', '2009-05-01']",False,Date of death (if applicable)
+beneficiary,Gender,int64,0,2,"[1, 2]",False,"1=Male, 2=Female"
+beneficiary,Race,int64,0,4,"[1, 2, 3]",False,Beneficiary race code
+beneficiary,RenalDiseaseIndicator,str,0,2,"['0', 'Y']",False,Renal disease indicator Y/N
+beneficiary,State,int64,0,52,"[39, 52, 24]",False,Beneficiary state
+beneficiary,County,int64,0,314,"[230, 280, 590]",False,Beneficiary county
+beneficiary,NoOfMonths_PartACov,int64,0,13,"[12, 0, 3]",False,Months of Part A coverage
+beneficiary,NoOfMonths_PartBCov,int64,0,13,"[12, 0, 1]",False,Months of Part B coverage
+beneficiary,ChronicCond_Alzheimer,int64,0,2,"[1, 2]",False,"Chronic condition: Alzheimer (1=No, 2=Yes)"
+beneficiary,ChronicCond_Heartfailure,int64,0,2,"[2, 1]",False,Chronic condition: Heart Failure
+beneficiary,ChronicCond_KidneyDisease,int64,0,2,"[1, 2]",False,Chronic condition: Kidney Disease
+beneficiary,ChronicCond_Cancer,int64,0,2,"[2, 1]",False,Chronic condition: Cancer
+beneficiary,ChronicCond_ObstrPulmonary,int64,0,2,"[2, 1]",False,Chronic condition: COPD
+beneficiary,ChronicCond_Depression,int64,0,2,"[1, 2]",False,Chronic condition: Depression
+beneficiary,ChronicCond_Diabetes,int64,0,2,"[1, 2]",False,Chronic condition: Diabetes
+beneficiary,ChronicCond_IschemicHeart,int64,0,2,"[1, 2]",False,Chronic condition: Ischemic Heart
+beneficiary,ChronicCond_Osteoporasis,int64,0,2,"[2, 1]",False,Chronic condition: Osteoporosis
+beneficiary,ChronicCond_rheumatoidarthritis,int64,0,2,"[1, 2]",False,Chronic condition: Rheumatoid Arthritis
+beneficiary,ChronicCond_stroke,int64,0,2,"[1, 2]",False,Chronic condition: Stroke/Transient Ischemic Attack
+beneficiary,IPAnnualReimbursementAmt,int64,0,3004,"[36000, 0, 5000]",False,Annual inpatient reimbursement
+beneficiary,IPAnnualDeductibleAmt,int64,0,147,"[3204, 0, 1068]",False,Medicare claim attribute
+beneficiary,OPAnnualReimbursementAmt,int64,0,2078,"[60, 30, 90]",False,Annual outpatient reimbursement
+beneficiary,OPAnnualDeductibleAmt,int64,0,789,"[70, 50, 40]",False,Medicare claim attribute
+inpatient,BeneID,str,0,31289,"['BENE11001', 'BENE11011', 'BENE11014']",True,Beneficiary identifier (de-identified)
+inpatient,ClaimID,str,0,40474,"['CLM46614', 'CLM66048', 'CLM68358']",True,Unique claim identifier
+inpatient,ClaimStartDt,str,0,398,"['2009-04-12', '2009-08-31', '2009-09-17']",False,Claim start date
+inpatient,ClaimEndDt,str,0,365,"['2009-04-18', '2009-09-02', '2009-09-20']",False,Claim end date
+inpatient,Provider,str,0,2092,"['PRV55912', 'PRV55907', 'PRV56046']",True,Unique healthcare provider identifier (primary key for provider-level analysis)
+inpatient,InscClaimAmtReimbursed,int64,0,146,"[26000, 5000, 10000]",False,Insurance claim amount reimbursed (USD)
+inpatient,AttendingPhysician,str,112,11604,"['PHY390922', 'PHY318495', 'PHY372395']",False,Attending physician identifier
+inpatient,OperatingPhysician,str,16644,8287,"['PHY318495', 'PHY392961', 'PHY398258']",False,Operating physician identifier
+inpatient,OtherPhysician,str,35784,2877,"['PHY324689', 'PHY349768', 'PHY402711']",False,Other physician identifier
+inpatient,AdmissionDt,str,0,398,"['2009-04-12', '2009-08-31', '2009-09-17']",False,Inpatient admission date
+inpatient,ClmAdmitDiagnosisCode,str,0,1928,"['7866', '6186', '29590']",False,Admission diagnosis code (ICD-9)
+inpatient,DeductibleAmtPaid,float64,899,1,[1068.0],False,Deductible amount paid
+inpatient,DischargeDt,str,0,365,"['2009-04-18', '2009-09-02', '2009-09-20']",False,Discharge date
+inpatient,DiagnosisGroupCode,str,0,736,"['201', '750', '883']",False,Diagnosis group code (DRG)
+inpatient,ClmDiagnosisCode_1,str,0,2254,"['1970', '6186', '29623']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_2,str,226,2439,"['4019', '2948', '30390']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_3,str,676,2427,"['5853', '56400', '71690']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_4,str,1534,2441,"['7843', '34590', '32723']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_5,str,2894,2374,"['2768', 'V1581', 'V1041']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_6,str,4838,2358,"['71590', '32723', '4254']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_7,str,7258,2310,"['2724', '25062', '5119']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_8,str,9942,2243,"['19889', '40390', '29620']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_9,str,13497,2094,"['5849', '4019', '20300']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmDiagnosisCode_10,str,36547,952,"['42732', '30981', '32723']",False,Claim diagnosis code (ICD-9)
+inpatient,ClmProcedureCode_1,float64,17326,1117,"[7092.0, 331.0, 3893.0]",False,Claim procedure code
+inpatient,ClmProcedureCode_2,float64,35020,297,"[4139.0, 4019.0, 2724.0]",False,Claim procedure code
+inpatient,ClmProcedureCode_3,float64,39509,154,"[4019.0, 7963.0, 2724.0]",False,Claim procedure code
+inpatient,ClmProcedureCode_4,float64,40358,48,"[42.0, 4104.0, 7999.0]",False,Claim procedure code
+inpatient,ClmProcedureCode_5,float64,40465,6,"[4139.0, 5185.0, 4422.0]",False,Claim procedure code
+inpatient,ClmProcedureCode_6,float64,40474,0,[],False,Claim procedure code
+outpatient,BeneID,str,0,133980,"['BENE11002', 'BENE11003', 'BENE11004']",True,Beneficiary identifier (de-identified)
+outpatient,ClaimID,str,0,517737,"['CLM624349', 'CLM189947', 'CLM438021']",True,Unique claim identifier
+outpatient,ClaimStartDt,str,0,385,"['2009-10-11', '2009-02-12', '2009-06-27']",False,Claim start date
+outpatient,ClaimEndDt,str,0,366,"['2009-10-11', '2009-02-12', '2009-06-27']",False,Claim end date
+outpatient,Provider,str,0,5012,"['PRV56011', 'PRV57610', 'PRV57595']",True,Unique healthcare provider identifier (primary key for provider-level analysis)
+outpatient,InscClaimAmtReimbursed,int64,0,342,"[30, 80, 10]",False,Insurance claim amount reimbursed (USD)
+outpatient,AttendingPhysician,str,1396,74109,"['PHY326117', 'PHY362868', 'PHY328821']",False,Attending physician identifier
+outpatient,OperatingPhysician,str,427120,28532,"['PHY366436', 'PHY359916', 'PHY412248']",False,Operating physician identifier
+outpatient,OtherPhysician,str,322691,44388,"['PHY346833', 'PHY311407', 'PHY396473']",False,Other physician identifier
+outpatient,ClmDiagnosisCode_1,str,10453,10354,"['78943', '6115', '2723']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_2,str,195380,5056,"['V5866', '30000', '4280']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_3,str,314480,4448,"['V1272', '72887', '2449']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_4,str,392141,3925,"['4280', 'V854', '71695']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_5,str,443393,3412,"['7197', '72751', 'V5869']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_6,str,468981,2968,"['V4577', '4019', '4779']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_7,str,484776,2635,"['9597', 'V5869', '25071']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_8,str,494825,2260,"['8449', '78659', '4011']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_9,str,502899,1894,"['71596', '34830', '3310']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmDiagnosisCode_10,str,516654,495,"['V059', 'V4581', '2720']",False,Claim diagnosis code (ICD-9)
+outpatient,ClmProcedureCode_1,float64,517575,80,"[9672.0, 4573.0, 66.0]",False,Claim procedure code
+outpatient,ClmProcedureCode_2,float64,517701,22,"[3811.0, 7820.0, 4439.0]",False,Claim procedure code
+outpatient,ClmProcedureCode_3,float64,517733,4,"[412.0, 4401.0, 4299.0]",False,Claim procedure code
+outpatient,ClmProcedureCode_4,float64,517735,2,"[7840.0, 311.0]",False,Claim procedure code
+outpatient,ClmProcedureCode_5,float64,517737,0,[],False,Claim procedure code
+outpatient,ClmProcedureCode_6,float64,517737,0,[],False,Claim procedure code
+outpatient,DeductibleAmtPaid,int64,0,16,"[0, 200, 50]",False,Deductible amount paid
+outpatient,ClmAdmitDiagnosisCode,str,412312,3715,"['56409', '79380', '71947']",False,Admission diagnosis code (ICD-9)

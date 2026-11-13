@@ -1,0 +1,28 @@
+{
+  "weights": {
+    "supervised": 0.55,
+    "anomaly": 0.25,
+    "peer": 0.2
+  },
+  "thresholds": {
+    "Low": [
+      0,
+      30
+    ],
+    "Medium": [
+      30,
+      60
+    ],
+    "High": [
+      60,
+      80
+    ],
+    "Critical": [
+      80,
+      100
+    ]
+  },
+  "methodology": "Hybrid = w_sup * SupervisedProba*100 + w_anom * AnomalyScore + w_peer * PeerScore. Supervised = calibrated fraud probability (0-100). Anomaly = IsolationForest normalized 0-100 (1=most anomalous). Peer = grouped MAD deviation severity scaled 0-100. Weights from validation: supervised highest PR-AUC, anomaly and peer catch label-blind risks. Thresholds configurable; documented here.",
+  "caveat": "High-risk is investigation signal, not proof of fraud. Scores are screening tools.",
+  "validation_note": "Weights validated by checking rank correlation with fraud labels on validation set; supervised 0.55 gave best combined PR-AUC vs using supervised alone. See notebooks/hybrid_validation.ipynb for sensitivity analysis."
+}

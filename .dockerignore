@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pkl
+*.joblib
+.git
+.gitignore
+venv
+.venv
+env
+.DS_Store
+reports/*.png
+reports/*.pdf
+data/raw/*.csv
+database/*.db
+.pytest_cache

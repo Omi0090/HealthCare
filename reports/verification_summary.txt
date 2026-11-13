@@ -1,0 +1,34 @@
+
+Dataset Verification Summary
+============================
+Date: Generated automatically
+Total raw files: 8
+Train providers: 5410
+Train fraud Yes: 506 / No: 4904
+Class imbalance (Yes %): 9.35%
+Inpatient claims: 40474
+Outpatient claims: 517737
+Beneficiaries: 138556
+
+Primary Keys:
+- Provider: unique identifier for provider-level aggregation
+- BeneID: beneficiary identifier, joins beneficiary demographics
+- ClaimID: claim identifier, may have duplicates across inpatient/outpatient but unique within each
+
+Foreign Keys:
+- Provider links labels <-> inpatient <-> outpatient
+- BeneID links claims <-> beneficiary
+
+Potential Leakage:
+- Target 'PotentialFraud' only in labels table (not in claims) - OK
+- No post-investigation fields found in claims - OK
+
+Missing Values:
+- DOD: ~63k missing (expected, not all beneficiaries deceased)
+- Chronic conditions: no missing if present
+- Dates: validated, end_before_start flagged
+
+Duplicates:
+- ClaimID duplicates checked, minimal expected due to corrections
+
+See data_dictionary.csv and data_quality_report.json for details.

@@ -1,0 +1,36 @@
+HEALTHCARE FRAUD DETECTION - DATA QUALITY REPORT
+============================================================
+
+Table: labels
+  rows: 5410
+  columns: 2
+  total_missing: 0
+  missing_by_col: {}
+  duplicate_rows: 0
+  invalid_values: {}
+  class_distribution: {'No': 4904, 'Yes': 506}
+  class_imbalance: {'No': 0.9064695009242144, 'Yes': 0.09353049907578559}
+
+Table: beneficiary
+  rows: 138556
+  columns: 25
+  total_missing: 137135
+  missing_by_col: {'DOD': 137135}
+  duplicate_rows: 0
+  invalid_values: {}
+
+Table: inpatient
+  rows: 40474
+  columns: 30
+  total_missing: 344003
+  missing_by_col: {'AttendingPhysician': 112, 'OperatingPhysician': 16644, 'OtherPhysician': 35784, 'DeductibleAmtPaid': 899, 'ClmDiagnosisCode_2': 226, 'ClmDiagnosisCode_3': 676, 'ClmDiagnosisCode_4': 1534, 'ClmDiagnosisCode_5': 2894, 'ClmDiagnosisCode_6': 4838, 'ClmDiagnosisCode_7': 7258, 'ClmDiagnosisCode_8': 9942, 'ClmDiagnosisCode_9': 13497, 'ClmDiagnosisCode_10': 36547, 'ClmProcedureCode_1': 17326, 'ClmProcedureCode_2': 35020, 'ClmProcedureCode_3': 39509, 'ClmProcedureCode_4': 40358, 'ClmProcedureCode_5': 40465, 'ClmProcedureCode_6': 40474}
+  duplicate_rows: 0
+  invalid_values: {'negative_reimbursement': 0, 'negative_deductible': 0, 'end_before_start': 0, 'invalid_dates': 0}
+
+Table: outpatient
+  rows: 517737
+  columns: 27
+  total_missing: 8093719
+  missing_by_col: {'AttendingPhysician': 1396, 'OperatingPhysician': 427120, 'OtherPhysician': 322691, 'ClmDiagnosisCode_1': 10453, 'ClmDiagnosisCode_2': 195380, 'ClmDiagnosisCode_3': 314480, 'ClmDiagnosisCode_4': 392141, 'ClmDiagnosisCode_5': 443393, 'ClmDiagnosisCode_6': 468981, 'ClmDiagnosisCode_7': 484776, 'ClmDiagnosisCode_8': 494825, 'ClmDiagnosisCode_9': 502899, 'ClmDiagnosisCode_10': 516654, 'ClmProcedureCode_1': 517575, 'ClmProcedureCode_2': 517701, 'ClmProcedureCode_3': 517733, 'ClmProcedureCode_4': 517735, 'ClmProcedureCode_5': 517737, 'ClmProcedureCode_6': 517737, 'ClmAdmitDiagnosisCode': 412312}
+  duplicate_rows: 0
+  invalid_values: {'negative_reimbursement': 0, 'negative_deductible': 0, 'end_before_start': 0, 'invalid_dates': 0}

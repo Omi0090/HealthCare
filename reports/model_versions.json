@@ -1,0 +1,25 @@
+{
+  "versions": [
+    {
+      "version": "v1.0.0",
+      "best_model": "LightGBM",
+      "training_date": "2026-11-13T07:45:48.870859",
+      "feature_count": 77,
+      "test_pr_auc": 0.751549294641712,
+      "test_roc_auc": 0.9439895594965675,
+      "dataset_source": "data/processed/cleaned_provider_features.csv",
+      "caveat": "Model trained on US Medicare data; not validated for other insurance schemes. High-risk score is investigation signal, not proof of fraud."
+    }
+  ],
+  "latest": {
+    "version": "v1.0.0",
+    "best_model": "LightGBM",
+    "training_date": "2026-11-13T07:45:48.870859",
+    "feature_count": 77,
+    "test_pr_auc": 0.751549294641712,
+    "test_roc_auc": 0.9439895594965675,
+    "dataset_source": "data/processed/cleaned_provider_features.csv",
+    "caveat": "Model trained on US Medicare data; not validated for other insurance schemes. High-risk score is investigation signal, not proof of fraud."
+  },
+  "updated_at": "2026-11-13T07:46:36.394941"
+}

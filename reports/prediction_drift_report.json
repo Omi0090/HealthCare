@@ -1,0 +1,8 @@
+{
+  "KS_Statistic": 0.039186691312384475,
+  "PValue": 0.031400188902748406,
+  "ReferenceMeanProba": 0.10294316993609265,
+  "CurrentMeanProba": 0.10604287050936449,
+  "DriftDetected": true,
+  "Interpretation": "Prediction distribution change may indicate data drift or genuine shift, not necessarily model performance drop. Validate with labeled data."
+}
