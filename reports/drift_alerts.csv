@@ -1,0 +1,2 @@
+Type,KS,Severity,Message
+PredictionDrift,0.039186691312384475,Medium,"Prediction distribution drift (KS=0.039) - investigate data change, not necessarily performance drop"

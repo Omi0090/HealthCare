@@ -1,0 +1,2482 @@
+Provider,NumPeerDeviations,MaxAbsZ,Features
+PRV51001,2,15.489508692695187,"TotalReimbursement, AverageReimbursement"
+PRV51003,3,26.414985204047067,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51008,1,2.6895389235082554,TotalReimbursement
+PRV51021,1,6.254267048664421,AverageReimbursement
+PRV51023,2,6.0569382522523565,"TotalReimbursement, AverageReimbursement"
+PRV51024,2,5.881716672771343,"TotalReimbursement, AverageReimbursement"
+PRV51025,2,3.4877095128093822,"TotalReimbursement, AverageReimbursement"
+PRV51030,3,24.778169538542823,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51031,1,9.917641081641538,AverageReimbursement
+PRV51035,1,2.9564464714555254,AverageReimbursement
+PRV51038,1,9.533752287998912,AverageReimbursement
+PRV51046,2,10.972128199745413,"TotalReimbursement, AverageReimbursement"
+PRV51053,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51055,1,2.5453287883776254,AverageReimbursement
+PRV51057,2,4.894170754738709,"TotalReimbursement, AverageReimbursement"
+PRV51058,2,3.2314427542574355,"TotalReimbursement, AverageReimbursement"
+PRV51059,2,15.469247188960573,"TotalReimbursement, AverageReimbursement"
+PRV51060,2,3.597096847999661,"TotalReimbursement, AverageReimbursement"
+PRV51064,1,5.205139900867862,AverageReimbursement
+PRV51065,2,9.623904824711563,"TotalReimbursement, AverageReimbursement"
+PRV51066,1,2.744548136442416,AverageReimbursement
+PRV51067,2,19.434076922907426,"TotalReimbursement, AverageReimbursement"
+PRV51070,2,3.7390593631220197,"TotalReimbursement, AverageReimbursement"
+PRV51074,2,3.3118001737164713,"TotalReimbursement, AverageReimbursement"
+PRV51075,1,3.061150369932238,ClaimsPerBeneficiary
+PRV51077,2,23.602247305737663,"TotalReimbursement, AverageReimbursement"
+PRV51078,2,12.325964832405724,"TotalReimbursement, AverageReimbursement"
+PRV51084,2,7.3166377032399375,"TotalReimbursement, AverageReimbursement"
+PRV51086,2,17.813372644478786,"AverageReimbursement, AverageClaimDuration"
+PRV51089,1,4.104128262318499,AverageReimbursement
+PRV51090,2,14.742440885702724,"TotalReimbursement, AverageClaimDuration"
+PRV51093,1,3.379058633378457,AverageReimbursement
+PRV51096,1,10.117361392148927,AverageClaimDuration
+PRV51100,3,63.4350333790671,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51101,3,17.22784453088896,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51102,2,35.20986948169276,"TotalReimbursement, AverageReimbursement"
+PRV51104,1,3.372453797382973,ClaimsPerBeneficiary
+PRV51108,2,30.20797932575742,"TotalReimbursement, AverageReimbursement"
+PRV51109,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51110,3,26.84473222716849,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51118,2,26.20506680660849,"TotalReimbursement, AverageReimbursement"
+PRV51119,3,41.63631458249022,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51120,3,42.04874100541896,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51121,3,65.96848647563772,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51125,2,8.463775272240309,"TotalReimbursement, AverageReimbursement"
+PRV51126,3,34.4110374708638,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV51128,2,5.962771386955075,"TotalReimbursement, AverageReimbursement"
+PRV51130,2,7.033975063113065,"TotalReimbursement, AverageClaimDuration"
+PRV51132,1,3.372453797382973,ClaimsPerBeneficiary
+PRV51136,3,64.38786587242858,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51139,2,4.593388777484656,"TotalReimbursement, AverageReimbursement"
+PRV51140,1,3.5908120326221997,AverageReimbursement
+PRV51141,1,3.2535426706133266,ClaimsPerBeneficiary
+PRV51142,2,5.984452326728614,"TotalReimbursement, AverageReimbursement"
+PRV51144,2,6.818453645684933,"TotalReimbursement, AverageReimbursement"
+PRV51145,3,47.40385186339933,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51146,3,27.58118682218086,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51148,1,7.024686740524066,AverageReimbursement
+PRV51149,3,45.03239660778729,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51151,1,3.175858687185805,AverageReimbursement
+PRV51152,1,4.179657361588686,ClaimsPerBeneficiary
+PRV51159,2,6.533652495202539,"TotalReimbursement, AverageReimbursement"
+PRV51160,3,33.361503241523245,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51164,2,6.673481140066568,"TotalReimbursement, AverageReimbursement"
+PRV51165,2,11.844454495679292,"TotalReimbursement, AverageReimbursement"
+PRV51166,3,19.732967463223805,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51170,2,28.170496853510613,"TotalReimbursement, AverageReimbursement"
+PRV51173,2,16.262522638987846,"TotalReimbursement, AverageReimbursement"
+PRV51178,3,22.567282396278507,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51183,2,12.879599431840726,"TotalReimbursement, AverageReimbursement"
+PRV51194,2,4.959311654216756,"TotalReimbursement, AverageReimbursement"
+PRV51207,3,54.60813794445953,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51217,1,10.117361392148927,AverageClaimDuration
+PRV51231,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51232,3,83.94732172836666,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51233,3,28.528863469875407,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51234,3,23.130097751807142,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51235,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51236,2,38.30859139784445,"TotalReimbursement, AverageReimbursement"
+PRV51237,2,61.127956563105556,"TotalReimbursement, AverageReimbursement"
+PRV51238,3,47.478914674536696,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51239,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51240,1,4.235433320717352,AverageReimbursement
+PRV51241,1,4.0056763722337,AverageReimbursement
+PRV51242,1,3.413320002221852,TotalReimbursement
+PRV51243,1,8.138855164350911,ClaimsPerBeneficiary
+PRV51244,2,13.963865200221036,"TotalReimbursement, AverageReimbursement"
+PRV51245,1,2.654901366483379,ClaimsPerBeneficiary
+PRV51247,2,7.633785647534686,"TotalReimbursement, AverageReimbursement"
+PRV51248,3,37.4936140705137,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51249,3,23.601742598334713,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51252,2,5.009025319766027,"TotalReimbursement, AverageReimbursement"
+PRV51258,2,19.854633606626027,"TotalReimbursement, AverageReimbursement"
+PRV51259,2,29.399390996889338,"TotalReimbursement, AverageReimbursement"
+PRV51260,1,3.9574139906243575,AverageReimbursement
+PRV51261,1,9.656658788806586,AverageReimbursement
+PRV51263,3,23.19271015329305,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51266,2,2.8459542457209515,"TotalReimbursement, AverageReimbursement"
+PRV51272,1,6.039009180812448,ClaimsPerBeneficiary
+PRV51274,2,9.52764102304212,"TotalReimbursement, AverageReimbursement"
+PRV51276,2,5.801042368429081,"TotalReimbursement, AverageReimbursement"
+PRV51277,2,7.224266738106313,"TotalReimbursement, AverageReimbursement"
+PRV51282,1,3.3080038980780166,AverageReimbursement
+PRV51285,1,5.069154380318044,AverageReimbursement
+PRV51286,2,6.069353800402384,"TotalReimbursement, AverageReimbursement"
+PRV51288,2,12.644641563014197,"TotalReimbursement, AverageReimbursement"
+PRV51289,1,5.475540047862851,ClaimsPerBeneficiary
+PRV51295,1,7.033975063113065,AverageClaimDuration
+PRV51296,2,3.7743942574838756,"TotalReimbursement, AverageReimbursement"
+PRV51297,1,2.5503767356628964,AverageReimbursement
+PRV51298,1,3.111379494571439,ClaimsPerBeneficiary
+PRV51300,2,6.048439695547767,"TotalReimbursement, AverageReimbursement"
+PRV51301,3,4.195332523944423,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV51302,2,7.7529932844083245,"TotalReimbursement, AverageReimbursement"
+PRV51303,1,3.1607935172124972,ClaimsPerBeneficiary
+PRV51305,2,6.939277184649822,"TotalReimbursement, AverageReimbursement"
+PRV51306,1,3.061150369932238,ClaimsPerBeneficiary
+PRV51307,1,4.12188797457919,ClaimsPerBeneficiary
+PRV51312,1,3.0158264992689126,ClaimsPerBeneficiary
+PRV51315,1,4.215759665165239,ClaimsPerBeneficiary
+PRV51316,3,24.506497594316293,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51318,3,13.315953359701341,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51323,1,5.271752044779414,ClaimsPerBeneficiary
+PRV51325,1,23.60717658168082,ClaimsPerBeneficiary
+PRV51326,1,5.620756328971623,ClaimsPerBeneficiary
+PRV51327,1,2.5897114345335925,ClaimsPerBeneficiary
+PRV51329,1,6.4570496137341,ClaimsPerBeneficiary
+PRV51330,1,12.815324430055304,ClaimsPerBeneficiary
+PRV51334,3,23.63899950589089,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51336,2,5.353777823812375,"TotalReimbursement, AverageReimbursement"
+PRV51337,1,11.865113508416371,AverageReimbursement
+PRV51338,1,3.335484705213007,AverageReimbursement
+PRV51342,1,8.539579348161299,AverageReimbursement
+PRV51347,1,3.1494408922005275,TotalReimbursement
+PRV51348,3,8.586835856852256,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51349,2,4.023686416322828,"TotalReimbursement, AverageReimbursement"
+PRV51350,1,3.3559012677657076,AverageReimbursement
+PRV51352,3,16.187778227438287,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51353,2,9.234719181676589,"TotalReimbursement, AverageReimbursement"
+PRV51354,3,24.281667341157426,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51355,2,5.6583715447589,"TotalReimbursement, AverageReimbursement"
+PRV51356,2,6.214440450401124,"TotalReimbursement, AverageReimbursement"
+PRV51357,1,5.735034164296009,AverageReimbursement
+PRV51358,2,11.236175441251055,"TotalReimbursement, AverageReimbursement"
+PRV51360,2,11.704487026157182,"TotalReimbursement, AverageReimbursement"
+PRV51362,2,15.684016186430371,"TotalReimbursement, AverageReimbursement"
+PRV51364,2,8.38181721007004,"TotalReimbursement, AverageReimbursement"
+PRV51368,1,8.093889113719143,AverageClaimDuration
+PRV51369,1,3.184236739443258,TotalReimbursement
+PRV51371,2,9.148026628737934,"TotalReimbursement, AverageReimbursement"
+PRV51377,2,3.6811325096610887,"TotalReimbursement, AverageReimbursement"
+PRV51378,3,44.88713774170795,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51380,2,17.871254815165713,"TotalReimbursement, AverageReimbursement"
+PRV51383,2,3.663613644656903,"TotalReimbursement, AverageReimbursement"
+PRV51387,2,5.582576224051232,"TotalReimbursement, AverageReimbursement"
+PRV51388,2,6.601917268402474,"TotalReimbursement, AverageReimbursement"
+PRV51389,2,5.594647306593826,"TotalReimbursement, AverageReimbursement"
+PRV51390,3,34.25299454976452,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51391,1,2.8755514067132903,AverageReimbursement
+PRV51393,2,5.29879635052542,"TotalReimbursement, AverageReimbursement"
+PRV51399,2,22.775192201700303,"TotalReimbursement, AverageReimbursement"
+PRV51401,2,8.967188972991504,"TotalReimbursement, AverageReimbursement"
+PRV51403,2,9.753929900572128,"TotalReimbursement, AverageReimbursement"
+PRV51406,2,13.102660569393734,"TotalReimbursement, AverageReimbursement"
+PRV51410,1,3.348485585547014,ClaimsPerBeneficiary
+PRV51414,1,2.933442291547221,AverageReimbursement
+PRV51415,1,3.0842009591165427,AverageReimbursement
+PRV51418,2,9.796399679614426,"TotalReimbursement, AverageReimbursement"
+PRV51421,3,37.502213362748684,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51422,3,6.481033339883452,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51430,2,7.242046960427231,"TotalReimbursement, AverageReimbursement"
+PRV51431,3,16.04537613596075,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51432,2,8.986445900838076,"TotalReimbursement, AverageReimbursement"
+PRV51434,2,9.89200212662969,"TotalReimbursement, AverageReimbursement"
+PRV51435,1,4.478095343221752,AverageReimbursement
+PRV51436,1,7.841837366158313,AverageReimbursement
+PRV51438,2,5.276670956538319,"TotalReimbursement, AverageReimbursement"
+PRV51440,2,3.9868973025838774,"TotalReimbursement, AverageReimbursement"
+PRV51442,3,20.637772140570455,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51444,2,6.99033012756468,"TotalReimbursement, AverageReimbursement"
+PRV51446,2,14.97333917138026,"TotalReimbursement, AverageReimbursement"
+PRV51447,2,9.517505522015316,"TotalReimbursement, AverageReimbursement"
+PRV51448,2,6.763433736131268,"TotalReimbursement, AverageReimbursement"
+PRV51449,2,12.951423455706372,"TotalReimbursement, AverageReimbursement"
+PRV51451,1,17.31192949323261,AverageClaimDuration
+PRV51455,2,12.0818077439569,"TotalReimbursement, AverageReimbursement"
+PRV51456,3,45.806481165642765,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51459,1,15.129977525980397,TotalReimbursement
+PRV51465,1,7.4193983542425475,AverageClaimDuration
+PRV51467,2,10.5769708858666,"TotalReimbursement, AverageReimbursement"
+PRV51468,1,3.226960141715826,AverageReimbursement
+PRV51470,2,3.8976179492102765,"TotalReimbursement, AverageReimbursement"
+PRV51471,3,53.324846762649884,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51474,2,19.523838292646158,"TotalReimbursement, AverageReimbursement"
+PRV51475,2,6.90159612257109,"TotalReimbursement, AverageReimbursement"
+PRV51476,1,3.024200408217019,TotalReimbursement
+PRV51480,1,2.8784361098828963,TotalReimbursement
+PRV51482,2,7.431301132350958,"TotalReimbursement, AverageReimbursement"
+PRV51490,3,23.557970074319595,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51492,2,5.290658049798583,"TotalReimbursement, AverageReimbursement"
+PRV51495,3,35.209022835282106,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51497,2,19.83843444490211,"TotalReimbursement, AverageReimbursement"
+PRV51501,3,53.25356451996532,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51508,1,5.169205598358051,AverageReimbursement
+PRV51514,2,8.254576618182686,"TotalReimbursement, AverageReimbursement"
+PRV51515,1,2.545724738955691,AverageReimbursement
+PRV51522,1,4.575819767702072,AverageReimbursement
+PRV51523,3,39.41315648946023,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51525,1,3.059986451451693,AverageReimbursement
+PRV51526,2,7.621545436459568,"TotalReimbursement, AverageReimbursement"
+PRV51532,2,7.5295258406434735,"TotalReimbursement, AverageReimbursement"
+PRV51533,3,9.509701940230798,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51536,2,7.301312434927653,"TotalReimbursement, AverageReimbursement"
+PRV51539,2,7.692440812556008,"TotalReimbursement, AverageReimbursement"
+PRV51540,1,2.9693853683715012,AverageReimbursement
+PRV51542,3,37.037081121400405,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51544,1,10.643288418294498,AverageReimbursement
+PRV51546,2,11.147349779226428,"TotalReimbursement, AverageReimbursement"
+PRV51549,2,15.41921902376169,"TotalReimbursement, AverageReimbursement"
+PRV51550,2,5.923125189880988,"TotalReimbursement, AverageReimbursement"
+PRV51551,2,14.854708829384503,"TotalReimbursement, AverageReimbursement"
+PRV51552,1,4.0537053203165145,AverageReimbursement
+PRV51553,2,7.189230884391483,"TotalReimbursement, AverageReimbursement"
+PRV51554,2,7.205535430506066,"TotalReimbursement, AverageReimbursement"
+PRV51556,2,7.498162900168267,"TotalReimbursement, AverageReimbursement"
+PRV51557,1,3.8227073075516937,AverageReimbursement
+PRV51558,1,2.591267146886032,AverageReimbursement
+PRV51560,3,49.07018563095007,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51566,2,12.567099731776205,"TotalReimbursement, AverageReimbursement"
+PRV51568,2,5.116532191307387,"TotalReimbursement, AverageReimbursement"
+PRV51572,3,4.046944556859572,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51574,1,7.906331857274047,TotalReimbursement
+PRV51576,2,4.00859878042156,"TotalReimbursement, AverageReimbursement"
+PRV51577,2,53.28476999865102,"AverageReimbursement, AverageClaimDuration"
+PRV51578,2,10.553247095333308,"TotalReimbursement, AverageReimbursement"
+PRV51579,2,11.012358746069793,"TotalReimbursement, AverageReimbursement"
+PRV51582,3,16.86226898691488,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51584,2,6.152030750011744,"TotalReimbursement, AverageReimbursement"
+PRV51585,3,62.67828764892263,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51586,2,25.582349718868127,"TotalReimbursement, AverageReimbursement"
+PRV51588,2,16.09862316570362,"TotalReimbursement, AverageReimbursement"
+PRV51590,3,32.22287928831198,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51593,2,8.616293281568366,"TotalReimbursement, AverageReimbursement"
+PRV51598,2,9.311121575859245,"TotalReimbursement, AverageReimbursement"
+PRV51599,3,12.609687003385615,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51602,2,7.390194757662378,"TotalReimbursement, AverageReimbursement"
+PRV51604,2,11.013680597231934,"TotalReimbursement, AverageReimbursement"
+PRV51606,2,6.111975799653444,"TotalReimbursement, AverageReimbursement"
+PRV51608,2,7.464326964365885,"TotalReimbursement, AverageReimbursement"
+PRV51609,2,3.9105171951451947,"TotalReimbursement, AverageReimbursement"
+PRV51610,3,34.7691761013118,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51612,2,14.01726458828129,"TotalReimbursement, AverageReimbursement"
+PRV51613,1,3.078239727225529,TotalReimbursement
+PRV51614,3,32.059871651146175,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51617,3,19.01514908081157,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51618,2,5.709498304614308,"AverageReimbursement, AverageClaimDuration"
+PRV51619,2,14.6266423449702,"TotalReimbursement, AverageReimbursement"
+PRV51620,2,6.6929277399656035,"TotalReimbursement, AverageReimbursement"
+PRV51622,1,2.7979463740170294,TotalReimbursement
+PRV51623,2,10.263467699097863,"TotalReimbursement, AverageReimbursement"
+PRV51625,3,15.250071561824482,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51626,2,10.972779671402664,"TotalReimbursement, AverageReimbursement"
+PRV51627,2,5.54390213421559,"TotalReimbursement, AverageReimbursement"
+PRV51628,2,10.232518351083955,"TotalReimbursement, AverageReimbursement"
+PRV51629,3,37.7083859250524,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51630,1,12.815324430055309,AverageClaimDuration
+PRV51632,1,2.7436411483385315,AverageReimbursement
+PRV51637,2,3.7338892358092477,"TotalReimbursement, AverageReimbursement"
+PRV51638,3,16.13019974797077,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51639,2,14.254097605000307,"TotalReimbursement, AverageReimbursement"
+PRV51640,3,13.662550627934447,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51645,1,13.894509645217862,AverageClaimDuration
+PRV51647,2,9.920913530202842,"TotalReimbursement, AverageReimbursement"
+PRV51654,1,4.721435316336167,AverageClaimDuration
+PRV51655,1,3.8221143037007064,AverageClaimDuration
+PRV51679,3,7.981473987139705,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV51681,2,9.317490925289226,"TotalReimbursement, AverageReimbursement"
+PRV51687,1,7.419398354242545,ClaimsPerBeneficiary
+PRV51688,2,6.307270752737209,"TotalReimbursement, AverageReimbursement"
+PRV51689,1,4.731525511817404,AverageReimbursement
+PRV51691,1,2.70925158618214,ClaimsPerBeneficiary
+PRV51693,1,4.5667711377540785,ClaimsPerBeneficiary
+PRV51710,2,23.218894067323383,"TotalReimbursement, AverageReimbursement"
+PRV51711,3,12.229316923260338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51712,1,11.016682404784387,AverageClaimDuration
+PRV51715,2,15.417445776596926,"TotalReimbursement, AverageReimbursement"
+PRV51719,3,13.489815189531905,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51724,1,8.318719366878009,AverageClaimDuration
+PRV51749,1,8.318719366878009,AverageClaimDuration
+PRV51751,1,8.768379873195737,AverageClaimDuration
+PRV51753,1,13.489815189531905,AverageClaimDuration
+PRV51755,1,8.318719366878009,AverageClaimDuration
+PRV51758,1,7.033975063113065,AverageClaimDuration
+PRV51774,1,17.31192949323261,AverageClaimDuration
+PRV51780,1,6.407662215027651,ClaimsPerBeneficiary
+PRV51786,1,6.879805746661271,AverageClaimDuration
+PRV51787,1,11.91600341741985,AverageClaimDuration
+PRV51792,1,4.1680070008681875,ClaimsPerBeneficiary
+PRV51793,1,6.145360253008976,ClaimsPerBeneficiary
+PRV51797,1,19.8300283286119,AverageClaimDuration
+PRV51803,3,26.88914991132914,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51805,3,71.9943209275156,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51806,3,41.568500707167466,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51807,3,79.88602751264258,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51809,3,34.80535389463078,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51810,3,30.702136342757417,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51811,2,38.814241241927625,"TotalReimbursement, AverageReimbursement"
+PRV51812,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51813,3,31.283775019982702,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51816,3,55.209536312279354,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51818,3,35.788479355666574,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51819,3,10.117361392148927,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51820,3,19.839898925092044,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51821,3,39.52857338957382,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51822,1,45.19088088493188,AverageClaimDuration
+PRV51823,2,10.81365387314396,"TotalReimbursement, AverageReimbursement"
+PRV51824,3,16.531475080107157,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51826,2,52.023852555119106,"TotalReimbursement, AverageReimbursement"
+PRV51827,3,25.004193050863808,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51828,2,28.60689243245311,"TotalReimbursement, AverageReimbursement"
+PRV51829,3,28.887945698558564,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51830,3,15.72715039169817,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51831,3,44.82841001649048,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51833,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51836,1,2.5111697621392692,TotalReimbursement
+PRV51837,2,6.710786297521842,"TotalReimbursement, AverageReimbursement"
+PRV51840,2,17.910508252557367,"AverageReimbursement, AverageClaimDuration"
+PRV51841,2,7.114373171823809,"TotalReimbursement, AverageReimbursement"
+PRV51842,3,23.690101492109154,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51845,2,11.074340787776004,"TotalReimbursement, AverageReimbursement"
+PRV51851,2,6.635480371500329,"TotalReimbursement, AverageReimbursement"
+PRV51855,1,5.333520087355994,AverageReimbursement
+PRV51857,2,22.908684126735963,"TotalReimbursement, AverageReimbursement"
+PRV51862,2,17.572785959063815,"TotalReimbursement, AverageReimbursement"
+PRV51863,3,12.775869095988536,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51868,3,45.43617852149122,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51869,2,4.285117851748932,"TotalReimbursement, AverageReimbursement"
+PRV51873,1,12.581676546880193,AverageReimbursement
+PRV51876,2,12.938912427946393,"TotalReimbursement, AverageReimbursement"
+PRV51879,1,7.668687128665557,ClaimsPerBeneficiary
+PRV51884,2,8.182061511086191,"TotalReimbursement, AverageReimbursement"
+PRV51886,1,30.891676784028046,ClaimsPerBeneficiary
+PRV51895,1,14.50155132874679,ClaimsPerBeneficiary
+PRV51896,1,10.117361392148927,AverageClaimDuration
+PRV51905,1,2.7267484741110786,ClaimsPerBeneficiary
+PRV51906,1,10.342191645307787,ClaimsPerBeneficiary
+PRV51916,1,13.853002521557753,ClaimsPerBeneficiary
+PRV51919,3,82.35367663267891,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51920,2,19.139926210310623,"TotalReimbursement, AverageReimbursement"
+PRV51921,1,7.668687128665557,ClaimsPerBeneficiary
+PRV51922,1,6.7653467086894805,ClaimsPerBeneficiary
+PRV51923,1,2.794318860688751,ClaimsPerBeneficiary
+PRV51924,1,3.6123354482428534,ClaimsPerBeneficiary
+PRV51927,3,51.960464970898194,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51929,1,2.993945453535522,TotalReimbursement
+PRV51932,2,5.383917338255315,"TotalReimbursement, AverageReimbursement"
+PRV51940,3,47.31090032960778,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51944,1,2.6208560650691557,AverageReimbursement
+PRV51946,2,6.75284278017156,"TotalReimbursement, AverageReimbursement"
+PRV51948,2,16.200456673742345,"TotalReimbursement, AverageReimbursement"
+PRV51949,2,11.822636106808412,"TotalReimbursement, AverageReimbursement"
+PRV51951,2,17.53041159806699,"TotalReimbursement, AverageReimbursement"
+PRV51956,2,3.964467361151296,"TotalReimbursement, AverageReimbursement"
+PRV51957,2,8.192437422808865,"TotalReimbursement, AverageReimbursement"
+PRV51960,2,18.664893329422924,"TotalReimbursement, AverageReimbursement"
+PRV51974,1,2.697963037906381,AverageClaimDuration
+PRV51976,3,49.45168836552793,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51977,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51978,3,24.77519716516469,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51979,2,29.698236871984406,"TotalReimbursement, AverageReimbursement"
+PRV51981,3,14.082050978340622,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV51990,1,2.7995599723882116,ClaimsPerBeneficiary
+PRV52002,1,9.177741340820537,AverageReimbursement
+PRV52003,3,30.480243557872598,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52012,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52017,1,4.576746324135251,AverageReimbursement
+PRV52019,2,40.64804341527172,"TotalReimbursement, AverageReimbursement"
+PRV52020,2,9.778577863276997,"TotalReimbursement, AverageReimbursement"
+PRV52021,3,17.652631321751876,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52024,1,2.6125844607574447,AverageReimbursement
+PRV52027,1,11.664649480689874,AverageReimbursement
+PRV52028,2,12.90138704921701,"TotalReimbursement, AverageReimbursement"
+PRV52029,1,3.9731397674085374,AverageReimbursement
+PRV52030,1,3.736039147314498,TotalReimbursement
+PRV52032,2,4.73769098917445,"TotalReimbursement, AverageReimbursement"
+PRV52038,1,3.582211460011496,AverageReimbursement
+PRV52041,1,3.2055587456379047,TotalReimbursement
+PRV52044,3,17.29019885942655,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52045,2,12.60176907058536,"TotalReimbursement, AverageReimbursement"
+PRV52047,3,23.590762716110564,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52057,1,3.6460046960923713,AverageReimbursement
+PRV52059,2,2.7598801992175463,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV52063,2,6.756193672963445,"TotalReimbursement, AverageReimbursement"
+PRV52064,1,6.780293790714397,TotalReimbursement
+PRV52065,2,21.788988577450557,"TotalReimbursement, AverageReimbursement"
+PRV52072,1,17.68711504050756,AverageReimbursement
+PRV52073,2,18.875767694049898,"TotalReimbursement, AverageReimbursement"
+PRV52074,1,4.936365426300789,AverageReimbursement
+PRV52075,1,10.117361392148927,AverageClaimDuration
+PRV52076,3,13.428202022683191,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52077,2,8.478206121139596,"TotalReimbursement, AverageReimbursement"
+PRV52079,2,4.093757725834319,"TotalReimbursement, AverageReimbursement"
+PRV52081,1,3.3307215910096843,AverageReimbursement
+PRV52084,2,11.380301986969702,"TotalReimbursement, AverageReimbursement"
+PRV52089,1,7.320131900231403,AverageReimbursement
+PRV52092,1,3.3368398059832693,AverageReimbursement
+PRV52094,2,9.565070881605845,"TotalReimbursement, AverageReimbursement"
+PRV52100,3,45.37838077844687,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52107,1,4.326782371892884,AverageReimbursement
+PRV52112,2,9.624239414888342,"TotalReimbursement, AverageReimbursement"
+PRV52114,2,8.853737350763234,"TotalReimbursement, AverageReimbursement"
+PRV52115,2,8.345037731806604,"TotalReimbursement, AverageReimbursement"
+PRV52118,2,6.474276317207353,"TotalReimbursement, AverageReimbursement"
+PRV52119,3,12.647515708324736,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52120,2,12.552098360095334,"TotalReimbursement, AverageReimbursement"
+PRV52123,3,33.05691909689838,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52124,2,6.271970544591775,"TotalReimbursement, AverageReimbursement"
+PRV52126,2,14.190492060847003,"TotalReimbursement, AverageReimbursement"
+PRV52127,2,13.605899652587222,"TotalReimbursement, AverageReimbursement"
+PRV52128,2,18.305679212194796,"TotalReimbursement, AverageReimbursement"
+PRV52129,1,2.638291935632133,ClaimsPerBeneficiary
+PRV52130,2,4.3615746581918895,"TotalReimbursement, AverageReimbursement"
+PRV52131,2,13.631260596052178,"TotalReimbursement, AverageReimbursement"
+PRV52135,3,41.09578975182258,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52136,2,13.847692051324781,"TotalReimbursement, AverageReimbursement"
+PRV52142,3,13.806360233568839,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52144,1,3.518612750583909,AverageReimbursement
+PRV52146,3,25.724437333743086,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52147,1,6.40527406694045,AverageReimbursement
+PRV52148,3,14.576305112312268,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52149,1,4.4251390164464475,AverageReimbursement
+PRV52150,1,6.746838724206434,AverageReimbursement
+PRV52151,2,22.23355398524679,"AverageReimbursement, AverageClaimDuration"
+PRV52152,2,17.247209080368464,"TotalReimbursement, AverageReimbursement"
+PRV52155,2,4.313400118577184,"TotalReimbursement, AverageReimbursement"
+PRV52156,1,11.467495063348645,AverageReimbursement
+PRV52157,2,11.37621759695279,"AverageReimbursement, AverageClaimDuration"
+PRV52159,1,4.423086013098856,AverageReimbursement
+PRV52165,2,4.297546091567263,"TotalReimbursement, AverageReimbursement"
+PRV52167,2,3.8297404412098013,"TotalReimbursement, AverageReimbursement"
+PRV52170,2,5.661566483166991,"TotalReimbursement, AverageReimbursement"
+PRV52171,2,3.2661834176042928,"TotalReimbursement, AverageReimbursement"
+PRV52173,3,70.21690790461054,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52176,2,61.4306969751191,"TotalReimbursement, AverageReimbursement"
+PRV52178,3,61.07989896595313,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52179,2,7.608729093744746,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV52180,1,3.1596549137202374,AverageReimbursement
+PRV52181,3,14.835030683856248,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52182,1,3.694281946837252,ClaimsPerBeneficiary
+PRV52188,2,19.526596138871827,"TotalReimbursement, AverageReimbursement"
+PRV52192,2,5.145669571745983,"TotalReimbursement, AverageReimbursement"
+PRV52195,2,34.228345866265244,"TotalReimbursement, AverageReimbursement"
+PRV52197,3,32.461603358495715,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52206,1,14.434102252799136,AverageClaimDuration
+PRV52213,1,2.794318860688752,AverageClaimDuration
+PRV52226,1,4.721435316336167,AverageClaimDuration
+PRV52227,2,7.4193983542425475,"TotalReimbursement, AverageClaimDuration"
+PRV52230,1,11.076637138960079,ClaimsPerBeneficiary
+PRV52231,2,8.318719366878009,"TotalReimbursement, AverageClaimDuration"
+PRV52249,1,3.2413286321099286,AverageClaimDuration
+PRV52255,1,4.528723670771423,ClaimsPerBeneficiary
+PRV52265,3,33.60455923163473,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52266,3,50.4003532287328,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52267,2,22.126159688043987,"TotalReimbursement, AverageReimbursement"
+PRV52274,1,7.101990938018264,ClaimsPerBeneficiary
+PRV52275,1,2.6030996234486876,ClaimsPerBeneficiary
+PRV52278,2,46.0194837763957,"TotalReimbursement, AverageReimbursement"
+PRV52279,3,32.71208625127655,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52280,3,43.05452547356721,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52281,3,44.51470530257566,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52282,3,62.61248367238832,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52283,3,31.16803511913098,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52285,2,27.80623181426806,"TotalReimbursement, AverageReimbursement"
+PRV52286,3,73.30562985921239,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52289,3,14.082050978340622,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52290,2,18.916577465596017,"TotalReimbursement, AverageReimbursement"
+PRV52291,2,24.603901798948915,"TotalReimbursement, AverageReimbursement"
+PRV52292,3,47.56492012661612,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52293,2,7.4193983542425475,"TotalReimbursement, AverageClaimDuration"
+PRV52294,3,43.69384041877651,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52295,3,14.904600685019396,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52296,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52300,2,10.825876908038289,"TotalReimbursement, AverageReimbursement"
+PRV52302,3,13.994700445792903,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52303,1,3.313896819962121,AverageReimbursement
+PRV52307,2,26.539363836573834,"TotalReimbursement, AverageReimbursement"
+PRV52308,2,14.151476217614013,"TotalReimbursement, AverageReimbursement"
+PRV52314,1,10.521218883892406,AverageReimbursement
+PRV52317,1,3.1919938734287636,AverageReimbursement
+PRV52320,2,12.688596386662761,"TotalReimbursement, AverageReimbursement"
+PRV52321,1,14.017684722552731,AverageReimbursement
+PRV52325,2,11.310692332332072,"AverageReimbursement, AverageClaimDuration"
+PRV52326,2,13.778301338832977,"TotalReimbursement, AverageReimbursement"
+PRV52331,1,2.624613790584259,AverageReimbursement
+PRV52334,2,4.720976797933597,"TotalReimbursement, AverageReimbursement"
+PRV52337,1,3.4260407094799277,ClaimsPerBeneficiary
+PRV52340,2,16.64571519110084,"TotalReimbursement, AverageReimbursement"
+PRV52342,2,16.452149618043197,"TotalReimbursement, AverageReimbursement"
+PRV52343,1,9.304275367487817,AverageReimbursement
+PRV52344,1,10.847522379395938,AverageReimbursement
+PRV52346,2,10.140793480631576,"TotalReimbursement, AverageReimbursement"
+PRV52347,2,9.024142430115758,"TotalReimbursement, AverageReimbursement"
+PRV52348,3,4.116680111241373,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52350,1,3.0298731451925325,TotalReimbursement
+PRV52353,2,9.904278974839581,"TotalReimbursement, AverageReimbursement"
+PRV52354,1,3.6123354482428534,ClaimsPerBeneficiary
+PRV52355,1,5.484497762284101,ClaimsPerBeneficiary
+PRV52357,1,2.684473222716849,TotalReimbursement
+PRV52359,2,15.68230691710112,"TotalReimbursement, AverageReimbursement"
+PRV52362,1,2.87530189615526,AverageReimbursement
+PRV52366,1,5.8989545172352615,AverageReimbursement
+PRV52372,1,12.480422900419152,AverageReimbursement
+PRV52373,2,6.251555660038467,"TotalReimbursement, AverageReimbursement"
+PRV52380,1,12.815324430055309,AverageClaimDuration
+PRV52381,1,6.181754694493011,ClaimsPerBeneficiary
+PRV52387,2,5.557461866435433,"TotalReimbursement, AverageReimbursement"
+PRV52393,2,6.596519627681102,"TotalReimbursement, AverageReimbursement"
+PRV52396,2,16.243377382465916,"TotalReimbursement, AverageReimbursement"
+PRV52398,2,13.482547460574146,"TotalReimbursement, AverageReimbursement"
+PRV52402,2,15.014811844882875,"TotalReimbursement, AverageReimbursement"
+PRV52404,2,7.643737957709143,"TotalReimbursement, AverageReimbursement"
+PRV52405,2,6.264828877726729,"TotalReimbursement, AverageReimbursement"
+PRV52407,1,8.068907974479263,ClaimsPerBeneficiary
+PRV52408,1,8.24377594915838,ClaimsPerBeneficiary
+PRV52410,1,5.9210889738589385,ClaimsPerBeneficiary
+PRV52411,1,2.7446666395962858,ClaimsPerBeneficiary
+PRV52415,1,12.884502969488798,ClaimsPerBeneficiary
+PRV52416,1,5.048461139112695,ClaimsPerBeneficiary
+PRV52417,1,21.87277177159815,ClaimsPerBeneficiary
+PRV52419,2,9.3389495853102,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV52420,2,3.658042742356465,"ClaimsPerBeneficiary, AverageClaimDuration"
+PRV52422,1,2.5395812848252786,ClaimsPerBeneficiary
+PRV52423,1,2.7273132634233543,ClaimsPerBeneficiary
+PRV52425,1,11.129097531363815,ClaimsPerBeneficiary
+PRV52427,3,6.40766221502765,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52431,1,2.5060577172184795,ClaimsPerBeneficiary
+PRV52432,1,4.267907436998039,ClaimsPerBeneficiary
+PRV52435,1,7.1524241875208485,ClaimsPerBeneficiary
+PRV52436,1,5.620756328971623,ClaimsPerBeneficiary
+PRV52437,1,3.44163233681647,ClaimsPerBeneficiary
+PRV52440,1,5.395926075812759,ClaimsPerBeneficiary
+PRV52441,1,2.6104235409000243,ClaimsPerBeneficiary
+PRV52445,3,83.17622633935768,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52446,3,36.87845962791953,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52449,3,102.91741929964829,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52456,1,3.5651654429477175,AverageClaimDuration
+PRV52457,2,37.17291671254779,"TotalReimbursement, AverageReimbursement"
+PRV52458,3,87.20723103768968,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52459,3,35.17482964329542,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52460,3,19.278986185138482,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52461,3,38.75854217870386,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52462,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52463,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52464,3,22.25819506272764,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52466,3,30.377753221126532,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52467,2,6.050182112505059,"TotalReimbursement, AverageReimbursement"
+PRV52468,2,5.479987238714889,"TotalReimbursement, AverageReimbursement"
+PRV52472,2,10.654688835302677,"TotalReimbursement, AverageReimbursement"
+PRV52473,1,12.815324430055309,AverageClaimDuration
+PRV52474,3,24.38331832156148,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52476,2,12.142629299158529,"TotalReimbursement, AverageReimbursement"
+PRV52480,2,4.545178662110261,"TotalReimbursement, AverageReimbursement"
+PRV52483,1,3.8408386372795604,ClaimsPerBeneficiary
+PRV52484,1,2.967759341697018,ClaimsPerBeneficiary
+PRV52495,2,18.759649520991474,"TotalReimbursement, AverageReimbursement"
+PRV52497,2,6.551643659468107,"TotalReimbursement, AverageReimbursement"
+PRV52499,1,4.3295910747675705,AverageReimbursement
+PRV52502,1,11.465089038897103,AverageReimbursement
+PRV52504,2,11.512394736478539,"TotalReimbursement, AverageReimbursement"
+PRV52509,3,5.484497762284101,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52511,3,16.054501662003922,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52512,1,3.3014547700696477,ClaimsPerBeneficiary
+PRV52518,1,3.697879391842678,AverageReimbursement
+PRV52519,2,4.206045024241992,"TotalReimbursement, AverageReimbursement"
+PRV52528,1,3.2600386708035414,ClaimsPerBeneficiary
+PRV52529,1,5.395926075812759,ClaimsPerBeneficiary
+PRV52531,1,4.721435316336167,AverageClaimDuration
+PRV52533,1,3.0560260336779046,ClaimsPerBeneficiary
+PRV52535,1,5.395926075812759,ClaimsPerBeneficiary
+PRV52536,3,44.82841001649048,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52537,3,185.00451031738012,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52541,3,33.00069423195244,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52544,3,27.242846285201015,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52547,1,4.112142743046031,AverageReimbursement
+PRV52548,2,6.740904682246803,"TotalReimbursement, AverageReimbursement"
+PRV52549,1,4.411363193947923,AverageClaimDuration
+PRV52551,1,3.642250101173614,AverageClaimDuration
+PRV52552,2,6.451428398647721,"TotalReimbursement, AverageReimbursement"
+PRV52553,2,21.831702603415735,"TotalReimbursement, AverageReimbursement"
+PRV52555,1,7.033975063113065,AverageClaimDuration
+PRV52556,2,17.203085200085702,"TotalReimbursement, AverageReimbursement"
+PRV52564,2,6.9310430269063765,"TotalReimbursement, AverageReimbursement"
+PRV52565,1,4.236091426450648,AverageReimbursement
+PRV52566,1,9.098588355372474,AverageReimbursement
+PRV52568,1,4.15198312191328,ClaimsPerBeneficiary
+PRV52570,2,10.054872253746858,"TotalReimbursement, AverageReimbursement"
+PRV52572,3,35.29834974594182,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52574,3,34.73682358228776,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52575,1,2.5060577172184795,ClaimsPerBeneficiary
+PRV52576,2,6.319765672223725,"TotalReimbursement, AverageReimbursement"
+PRV52578,3,24.635324976424585,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52582,3,32.143373228945315,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52583,1,4.9184070168423775,AverageReimbursement
+PRV52588,2,11.346682242760965,"TotalReimbursement, AverageReimbursement"
+PRV52589,2,9.984896650075127,"TotalReimbursement, AverageReimbursement"
+PRV52590,3,34.61018083268801,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52592,2,10.917943895978715,"TotalReimbursement, AverageReimbursement"
+PRV52602,2,3.5359261196427343,"TotalReimbursement, AverageReimbursement"
+PRV52607,1,4.731525511817404,AverageReimbursement
+PRV52608,2,8.969407613937323,"AverageReimbursement, AverageClaimDuration"
+PRV52609,1,2.6069635782541734,ClaimsPerBeneficiary
+PRV52611,2,15.549313680634029,"TotalReimbursement, AverageReimbursement"
+PRV52615,2,5.034561798066199,"TotalReimbursement, AverageReimbursement"
+PRV52617,1,8.478997040322913,AverageReimbursement
+PRV52621,2,18.93684755935996,"TotalReimbursement, AverageReimbursement"
+PRV52622,3,13.267726768728634,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52623,1,3.156266437960537,AverageReimbursement
+PRV52627,3,37.17102124481382,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52628,1,3.1995858057918474,TotalReimbursement
+PRV52630,2,10.34300211357262,"TotalReimbursement, AverageReimbursement"
+PRV52634,3,16.23881466351762,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52641,2,6.156116837669913,"TotalReimbursement, AverageReimbursement"
+PRV52642,3,16.7936100354072,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52644,2,7.766415877587267,"TotalReimbursement, AverageReimbursement"
+PRV52646,2,10.916434562493555,"TotalReimbursement, AverageReimbursement"
+PRV52648,1,3.127540481981567,ClaimsPerBeneficiary
+PRV52649,1,3.186181417532672,TotalReimbursement
+PRV52651,3,26.49432605212333,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52653,2,13.395507128816245,"TotalReimbursement, AverageReimbursement"
+PRV52654,1,14.83125038506738,AverageReimbursement
+PRV52668,1,10.502784683278412,AverageClaimDuration
+PRV52687,3,5.6424718238645735,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52688,3,5.659233420262246,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52690,1,2.9710498937277614,ClaimsPerBeneficiary
+PRV52691,2,3.4645207853234012,"TotalReimbursement, AverageReimbursement"
+PRV52692,1,5.620756328971623,ClaimsPerBeneficiary
+PRV52694,1,26.305139619587212,AverageClaimDuration
+PRV52696,3,103.50677758430474,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52700,1,4.833850442915596,ClaimsPerBeneficiary
+PRV52706,2,3.7294076475312323,"AverageReimbursement, AverageClaimDuration"
+PRV52708,3,9.292983797233084,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52709,1,26.6423849993255,ClaimsPerBeneficiary
+PRV52711,1,2.822868734105749,ClaimsPerBeneficiary
+PRV52713,1,7.4052876688978495,ClaimsPerBeneficiary
+PRV52717,1,7.997307280412437,AverageReimbursement
+PRV52719,1,3.2100526369612634,ClaimsPerBeneficiary
+PRV52720,1,3.981094691917645,ClaimsPerBeneficiary
+PRV52721,1,16.284134050220654,AverageClaimDuration
+PRV52723,1,5.360934662490919,AverageReimbursement
+PRV52726,1,26.305139619587212,AverageClaimDuration
+PRV52729,1,4.721435316336167,AverageClaimDuration
+PRV52731,1,4.1680070008681875,ClaimsPerBeneficiary
+PRV52732,1,7.419398354242545,ClaimsPerBeneficiary
+PRV52733,1,31.701065695399976,AverageClaimDuration
+PRV52740,1,4.921284430255154,ClaimsPerBeneficiary
+PRV52742,1,8.318719366878009,AverageClaimDuration
+PRV52750,1,2.604009216981461,AverageClaimDuration
+PRV52752,1,26.305139619587212,AverageClaimDuration
+PRV52760,1,2.623933564305291,TotalReimbursement
+PRV52764,1,17.31192949323261,AverageClaimDuration
+PRV52773,1,18.21125050586807,AverageClaimDuration
+PRV52775,1,7.033975063113065,AverageClaimDuration
+PRV52782,1,4.528723670771423,ClaimsPerBeneficiary
+PRV52787,2,16.82860904732294,"TotalReimbursement, AverageReimbursement"
+PRV52790,1,4.781390050511861,ClaimsPerBeneficiary
+PRV52795,1,4.928970934636654,ClaimsPerBeneficiary
+PRV52796,1,8.037446372340348,ClaimsPerBeneficiary
+PRV52800,1,3.372453797382973,ClaimsPerBeneficiary
+PRV52803,3,13.859271577921845,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52804,3,116.54641482159681,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52806,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52807,3,26.8989088152139,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52808,3,24.841001141698992,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52810,3,61.78993396570955,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52813,2,27.405940562353166,"TotalReimbursement, AverageReimbursement"
+PRV52814,3,10.117361392148927,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52815,3,59.2075377069867,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52816,1,8.969407613937323,AverageReimbursement
+PRV52821,3,13.738318296004497,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52828,2,23.516196146181077,"TotalReimbursement, AverageReimbursement"
+PRV52831,2,30.89907641277921,"TotalReimbursement, AverageReimbursement"
+PRV52833,2,4.669061099368904,"TotalReimbursement, AverageReimbursement"
+PRV52835,2,7.47539033344123,"TotalReimbursement, AverageReimbursement"
+PRV52836,2,9.729078877791482,"TotalReimbursement, AverageReimbursement"
+PRV52841,2,13.663677019362465,"TotalReimbursement, AverageReimbursement"
+PRV52842,1,3.344859434128119,AverageReimbursement
+PRV52843,2,12.505642701177068,"TotalReimbursement, AverageReimbursement"
+PRV52845,1,5.03336449431071,AverageReimbursement
+PRV52846,3,52.5954829580833,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52847,3,23.260408979455807,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52849,2,8.522242378218634,"TotalReimbursement, AverageReimbursement"
+PRV52851,2,6.264733074072789,"TotalReimbursement, AverageReimbursement"
+PRV52855,1,4.412263678159271,AverageReimbursement
+PRV52858,2,6.017406503838589,"TotalReimbursement, AverageReimbursement"
+PRV52862,3,19.163826777435492,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52863,1,2.6967952570502685,ClaimsPerBeneficiary
+PRV52865,1,3.104355926034769,AverageReimbursement
+PRV52868,2,15.987414795946709,"TotalReimbursement, AverageReimbursement"
+PRV52869,1,4.058373990847045,AverageReimbursement
+PRV52870,1,2.588069057923673,AverageReimbursement
+PRV52876,2,8.279363785571775,"TotalReimbursement, AverageReimbursement"
+PRV52880,1,2.9001101201234016,TotalReimbursement
+PRV52884,1,3.2478711710920147,ClaimsPerBeneficiary
+PRV52890,2,4.991086995365195,"TotalReimbursement, AverageReimbursement"
+PRV52892,2,10.895749562535741,"TotalReimbursement, AverageReimbursement"
+PRV52896,1,11.00783873981162,AverageReimbursement
+PRV52898,2,20.026820926670954,"TotalReimbursement, AverageReimbursement"
+PRV52902,2,13.542044698800284,"TotalReimbursement, AverageReimbursement"
+PRV52903,3,46.707028078108294,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52904,3,10.305970430759759,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52910,2,29.327338571544654,"TotalReimbursement, AverageReimbursement"
+PRV52911,1,11.19654660731148,AverageClaimDuration
+PRV52916,2,9.939425625095346,"TotalReimbursement, AverageReimbursement"
+PRV52917,1,2.623019620186757,ClaimsPerBeneficiary
+PRV52918,2,19.518633490063706,"TotalReimbursement, AverageReimbursement"
+PRV52919,1,2.655554707897449,ClaimsPerBeneficiary
+PRV52922,2,4.63399282189318,"TotalReimbursement, AverageReimbursement"
+PRV52924,2,7.666051778299555,"TotalReimbursement, AverageReimbursement"
+PRV52925,3,23.130097751807142,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52926,2,9.745090527868078,"TotalReimbursement, AverageReimbursement"
+PRV52928,1,4.25222435322201,ClaimsPerBeneficiary
+PRV52929,1,4.046944556859569,ClaimsPerBeneficiary
+PRV52933,3,24.433967088817933,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV52934,1,4.221812531538685,ClaimsPerBeneficiary
+PRV52935,1,3.2035845018491442,ClaimsPerBeneficiary
+PRV52936,1,8.818348300122258,ClaimsPerBeneficiary
+PRV52938,3,17.31192949323261,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52940,1,2.794318860688751,ClaimsPerBeneficiary
+PRV52944,2,2.6650610496392297,"TotalReimbursement, AverageReimbursement"
+PRV52945,1,5.096152404934272,ClaimsPerBeneficiary
+PRV52948,1,4.742151003331575,ClaimsPerBeneficiary
+PRV52952,1,18.21125050586807,AverageClaimDuration
+PRV52954,1,6.03548923554661,AverageReimbursement
+PRV52956,1,11.466342911102114,ClaimsPerBeneficiary
+PRV52962,1,6.070416835289354,ClaimsPerBeneficiary
+PRV52963,1,2.794318860688751,ClaimsPerBeneficiary
+PRV52964,1,5.645494521476839,ClaimsPerBeneficiary
+PRV52970,3,12.229316923260338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52971,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52972,2,43.01729938703401,"TotalReimbursement, AverageReimbursement"
+PRV52976,3,23.130097751807142,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52978,3,47.80658895217038,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52979,3,55.209536312279354,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52985,2,10.950517047885038,"TotalReimbursement, AverageReimbursement"
+PRV52986,2,13.569001864874286,"TotalReimbursement, AverageReimbursement"
+PRV52989,3,28.89818867291174,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV52990,2,8.099462917591719,"TotalReimbursement, AverageReimbursement"
+PRV52991,2,4.941722063727153,"TotalReimbursement, AverageReimbursement"
+PRV52998,2,17.090025603585943,"TotalReimbursement, AverageReimbursement"
+PRV52999,1,3.2958592079925864,AverageReimbursement
+PRV53002,1,2.619529990262123,ClaimsPerBeneficiary
+PRV53005,2,10.785134551348952,"TotalReimbursement, AverageReimbursement"
+PRV53007,2,14.655097166345293,"TotalReimbursement, AverageReimbursement"
+PRV53008,3,23.169576807566965,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53009,2,3.1573987726223205,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV53013,3,12.815324430055309,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53015,1,3.372453797382973,ClaimsPerBeneficiary
+PRV53016,1,3.872076582180452,ClaimsPerBeneficiary
+PRV53017,1,14.50155132874679,ClaimsPerBeneficiary
+PRV53018,1,4.762313544183229,ClaimsPerBeneficiary
+PRV53020,3,26.305139619587212,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53021,2,29.891646093714805,"TotalReimbursement, AverageReimbursement"
+PRV53025,1,6.407142347672851,ClaimsPerBeneficiary
+PRV53026,1,3.2600386708035414,ClaimsPerBeneficiary
+PRV53029,3,7.001093995991483,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53032,2,7.060070769786423,"TotalReimbursement, AverageReimbursement"
+PRV53033,3,121.43627878558132,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53034,2,26.305139619587212,"AverageReimbursement, AverageClaimDuration"
+PRV53038,1,14.61396645532622,ClaimsPerBeneficiary
+PRV53040,2,9.788407842120128,"TotalReimbursement, AverageReimbursement"
+PRV53043,1,6.009270532128996,ClaimsPerBeneficiary
+PRV53047,1,5.686606193913554,ClaimsPerBeneficiary
+PRV53048,2,11.65905455666686,"TotalReimbursement, AverageClaimDuration"
+PRV53054,1,2.792870462298873,ClaimsPerBeneficiary
+PRV53055,1,7.4052876688978495,ClaimsPerBeneficiary
+PRV53056,1,3.0454279746064423,ClaimsPerBeneficiary
+PRV53057,1,2.8493852889156996,ClaimsPerBeneficiary
+PRV53059,1,2.922793291065244,ClaimsPerBeneficiary
+PRV53061,2,28.528863469875407,"TotalReimbursement, AverageReimbursement"
+PRV53063,2,5.404151572879549,"TotalReimbursement, AverageReimbursement"
+PRV53070,2,21.30750333942977,"TotalReimbursement, AverageReimbursement"
+PRV53073,1,11.466342911102114,ClaimsPerBeneficiary
+PRV53076,1,4.647999707074181,ClaimsPerBeneficiary
+PRV53084,1,10.117361392148927,AverageClaimDuration
+PRV53085,1,8.768379873195737,AverageClaimDuration
+PRV53086,1,12.815324430055309,AverageClaimDuration
+PRV53087,1,5.2273033859436095,ClaimsPerBeneficiary
+PRV53091,3,17.536759746391475,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53095,3,28.970200669226443,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53103,1,2.616257122223871,AverageReimbursement
+PRV53104,2,9.997900408572093,"TotalReimbursement, AverageReimbursement"
+PRV53106,1,2.922793291065244,ClaimsPerBeneficiary
+PRV53107,2,19.678317944136154,"TotalReimbursement, AverageReimbursement"
+PRV53108,1,3.800794683920522,AverageReimbursement
+PRV53111,2,6.990936869097831,"TotalReimbursement, AverageReimbursement"
+PRV53114,2,49.404988997076984,"TotalReimbursement, AverageReimbursement"
+PRV53116,1,4.109897027744051,ClaimsPerBeneficiary
+PRV53117,1,3.1390407757452015,AverageReimbursement
+PRV53119,3,4.271107657931911,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53120,2,5.020030338010404,"TotalReimbursement, AverageReimbursement"
+PRV53121,2,3.8444740950471132,"TotalReimbursement, AverageReimbursement"
+PRV53124,3,8.495191160259802,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53127,1,2.7273132634233543,ClaimsPerBeneficiary
+PRV53128,1,3.964112358327356,ClaimsPerBeneficiary
+PRV53129,2,7.959664890975674,"TotalReimbursement, AverageReimbursement"
+PRV53131,2,9.840504095554357,"TotalReimbursement, AverageReimbursement"
+PRV53135,3,55.209536312279354,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53136,2,16.77353498192129,"TotalReimbursement, AverageReimbursement"
+PRV53139,1,2.794318860688751,ClaimsPerBeneficiary
+PRV53141,2,11.964275795303958,"TotalReimbursement, AverageReimbursement"
+PRV53142,2,14.397600399933346,"TotalReimbursement, AverageReimbursement"
+PRV53143,3,15.007659667155938,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53144,1,2.7827657895141793,TotalReimbursement
+PRV53149,1,7.616007236712015,ClaimsPerBeneficiary
+PRV53150,1,18.75084311344934,ClaimsPerBeneficiary
+PRV53153,2,19.056340475607445,"TotalReimbursement, AverageReimbursement"
+PRV53154,1,10.10249813691918,ClaimsPerBeneficiary
+PRV53156,1,6.610009442870631,ClaimsPerBeneficiary
+PRV53157,1,2.75928037967698,AverageReimbursement
+PRV53159,3,10.027429290885378,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53161,2,14.742440885702724,"TotalReimbursement, AverageClaimDuration"
+PRV53163,1,35.74801025225953,ClaimsPerBeneficiary
+PRV53168,1,2.5636858211175992,AverageReimbursement
+PRV53171,1,28.4635100499123,ClaimsPerBeneficiary
+PRV53173,1,4.799637143521856,ClaimsPerBeneficiary
+PRV53176,1,9.49475453724745,ClaimsPerBeneficiary
+PRV53177,1,4.844069999877363,ClaimsPerBeneficiary
+PRV53180,1,4.181842708754891,AverageClaimDuration
+PRV53189,2,6.225253809806759,"TotalReimbursement, AverageReimbursement"
+PRV53191,1,47.88884392283824,ClaimsPerBeneficiary
+PRV53192,1,2.5470711303257203,ClaimsPerBeneficiary
+PRV53194,1,9.817587721270435,ClaimsPerBeneficiary
+PRV53196,1,8.768379873195732,ClaimsPerBeneficiary
+PRV53201,2,6.9135302846350974,"ClaimsPerBeneficiary, AverageClaimDuration"
+PRV53202,1,3.8783218669904205,ClaimsPerBeneficiary
+PRV53205,1,4.181842708754887,ClaimsPerBeneficiary
+PRV53207,1,4.528723670771423,ClaimsPerBeneficiary
+PRV53208,3,8.85110750203244,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53211,1,12.815324430055309,AverageClaimDuration
+PRV53212,1,20.909213543774452,AverageClaimDuration
+PRV53214,1,2.794318860688751,ClaimsPerBeneficiary
+PRV53216,1,5.824890910291601,ClaimsPerBeneficiary
+PRV53217,1,10.117361392148927,AverageClaimDuration
+PRV53218,1,4.721435316336164,ClaimsPerBeneficiary
+PRV53220,3,89.75662399278788,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53221,1,8.768379873195732,ClaimsPerBeneficiary
+PRV53222,1,4.833850442915596,ClaimsPerBeneficiary
+PRV53225,3,29.231940770449118,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53226,3,29.00710557001274,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53232,1,4.876652855127851,ClaimsPerBeneficiary
+PRV53233,2,20.638018883422735,"TotalReimbursement, AverageReimbursement"
+PRV53236,2,30.302251404555186,"TotalReimbursement, AverageReimbursement"
+PRV53239,2,7.991128462716532,"TotalReimbursement, AverageReimbursement"
+PRV53240,1,3.273747832581523,TotalReimbursement
+PRV53242,3,26.1232912452953,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53243,2,3.957312836096196,"TotalReimbursement, AverageReimbursement"
+PRV53244,2,3.505822277009979,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV53245,1,6.965067395237762,AverageReimbursement
+PRV53247,2,6.096250786110276,"TotalReimbursement, AverageReimbursement"
+PRV53248,1,4.20820145695178,AverageReimbursement
+PRV53249,2,9.139360715073016,"TotalReimbursement, AverageReimbursement"
+PRV53252,1,5.753518153451319,ClaimsPerBeneficiary
+PRV53256,1,6.0812994030145155,AverageReimbursement
+PRV53265,2,11.809539679894622,"TotalReimbursement, AverageReimbursement"
+PRV53266,3,21.43517794253664,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53268,1,2.8796766347086904,AverageReimbursement
+PRV53269,2,12.092999476728611,"TotalReimbursement, AverageReimbursement"
+PRV53272,1,4.070176035133336,AverageReimbursement
+PRV53277,2,13.183739033066672,"TotalReimbursement, AverageReimbursement"
+PRV53280,1,3.7403578480065702,ClaimsPerBeneficiary
+PRV53281,2,8.007871061397227,"TotalReimbursement, AverageReimbursement"
+PRV53283,1,2.7396227612858177,TotalReimbursement
+PRV53290,1,17.31192949323261,AverageClaimDuration
+PRV53295,1,8.363659148712395,AverageReimbursement
+PRV53297,3,22.51349764854624,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53304,2,12.409075895311593,"TotalReimbursement, AverageReimbursement"
+PRV53305,1,3.2763838969234014,TotalReimbursement
+PRV53306,1,6.664136085551471,ClaimsPerBeneficiary
+PRV53308,3,12.838911950370061,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53309,1,2.7273132634233543,ClaimsPerBeneficiary
+PRV53313,1,8.439729183621939,ClaimsPerBeneficiary
+PRV53314,2,5.271752044779414,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV53317,2,8.161938626544673,"TotalReimbursement, AverageReimbursement"
+PRV53319,3,5.728692846724264,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53320,2,3.312553873595058,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV53321,1,3.9527285962503536,ClaimsPerBeneficiary
+PRV53323,1,7.051494303618948,ClaimsPerBeneficiary
+PRV53325,1,5.087372422942019,ClaimsPerBeneficiary
+PRV53326,1,4.574316083916222,ClaimsPerBeneficiary
+PRV53334,1,6.070416835289355,ClaimsPerBeneficiary
+PRV53336,3,36.13531852496244,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53337,1,10.656953999730204,AverageClaimDuration
+PRV53346,1,12.815324430055309,AverageClaimDuration
+PRV53350,1,2.697963037906381,AverageClaimDuration
+PRV53351,1,3.995060652284446,ClaimsPerBeneficiary
+PRV53355,1,5.620756328971627,AverageClaimDuration
+PRV53360,1,7.419398354242545,ClaimsPerBeneficiary
+PRV53361,1,2.794318860688751,ClaimsPerBeneficiary
+PRV53370,1,2.794318860688751,ClaimsPerBeneficiary
+PRV53374,1,2.565133101073374,ClaimsPerBeneficiary
+PRV53376,1,5.3252816124096265,ClaimsPerBeneficiary
+PRV53377,3,46.16148953881283,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53378,3,20.683319973365542,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53379,3,39.84979930007738,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53380,3,17.37224980505572,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53381,2,15.488920681706276,"TotalReimbursement, AverageReimbursement"
+PRV53383,2,8.103870167894828,"TotalReimbursement, AverageReimbursement"
+PRV53384,3,18.122743964065258,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53385,2,8.467232580492189,"TotalReimbursement, AverageReimbursement"
+PRV53388,1,4.093298248755617,AverageReimbursement
+PRV53389,2,3.212954636921493,"TotalReimbursement, AverageReimbursement"
+PRV53393,3,6.818937068367042,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53394,2,4.458764868687453,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV53396,3,16.720625927424795,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53397,2,24.610115523372336,"TotalReimbursement, AverageReimbursement"
+PRV53398,3,13.596746651400144,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53399,2,7.648774162938213,"TotalReimbursement, AverageReimbursement"
+PRV53401,3,21.322858658119458,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53402,1,7.8240928099285,ClaimsPerBeneficiary
+PRV53405,2,5.675781693461226,"AverageReimbursement, AverageClaimDuration"
+PRV53407,1,3.2580060050149022,ClaimsPerBeneficiary
+PRV53408,1,5.400269101419692,AverageReimbursement
+PRV53409,1,2.7592803796769783,ClaimsPerBeneficiary
+PRV53413,2,3.1558801985266887,"TotalReimbursement, AverageReimbursement"
+PRV53419,2,8.274020177080844,"TotalReimbursement, AverageReimbursement"
+PRV53421,3,46.1497717636878,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53424,1,8.5179852897206,AverageReimbursement
+PRV53426,1,7.419398354242545,ClaimsPerBeneficiary
+PRV53432,1,7.58338003461057,AverageReimbursement
+PRV53433,1,2.5630648860110594,ClaimsPerBeneficiary
+PRV53435,2,8.318719366878009,"TotalReimbursement, AverageClaimDuration"
+PRV53438,1,2.5890247447367845,AverageReimbursement
+PRV53441,2,19.760164339870112,"TotalReimbursement, AverageReimbursement"
+PRV53442,2,9.103098018614599,"TotalReimbursement, AverageReimbursement"
+PRV53444,2,13.73604903468032,"TotalReimbursement, AverageReimbursement"
+PRV53445,2,7.033975063113065,"TotalReimbursement, AverageClaimDuration"
+PRV53448,1,3.7911837879455663,AverageReimbursement
+PRV53451,3,19.839898925092044,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53453,2,7.587520680046802,"TotalReimbursement, AverageReimbursement"
+PRV53456,2,8.280843733845145,"TotalReimbursement, AverageReimbursement"
+PRV53457,3,10.117361392148927,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53461,2,46.43315695484215,"TotalReimbursement, AverageReimbursement"
+PRV53463,1,2.58323988449925,ClaimsPerBeneficiary
+PRV53465,2,4.676708837572881,"TotalReimbursement, AverageReimbursement"
+PRV53472,2,17.31192949323261,"AverageReimbursement, AverageClaimDuration"
+PRV53473,1,6.263128480854095,ClaimsPerBeneficiary
+PRV53479,1,10.117361392148927,AverageClaimDuration
+PRV53483,1,3.004185845621274,TotalReimbursement
+PRV53486,1,6.58925588104058,ClaimsPerBeneficiary
+PRV53487,1,7.8426082425415835,ClaimsPerBeneficiary
+PRV53489,3,13.970164691829774,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53495,1,3.7321822024371576,ClaimsPerBeneficiary
+PRV53496,1,3.6123354482428534,ClaimsPerBeneficiary
+PRV53499,1,9.118115822553966,ClaimsPerBeneficiary
+PRV53503,1,4.721435316336164,ClaimsPerBeneficiary
+PRV53507,2,19.178317096376684,"TotalReimbursement, AverageReimbursement"
+PRV53509,3,48.088319325813494,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53510,1,3.372453797382973,ClaimsPerBeneficiary
+PRV53511,1,12.815324430055309,AverageClaimDuration
+PRV53513,3,28.528863469875407,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53515,3,44.82841001649048,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53516,2,20.909213543774452,"AverageReimbursement, AverageClaimDuration"
+PRV53517,3,26.8989088152139,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53519,2,18.851142557900847,"TotalReimbursement, AverageReimbursement"
+PRV53526,1,4.244494151685353,ClaimsPerBeneficiary
+PRV53534,1,2.9647582398383423,ClaimsPerBeneficiary
+PRV53539,1,3.3724537973829762,AverageClaimDuration
+PRV53551,1,2.6387971818119413,ClaimsPerBeneficiary
+PRV53555,1,13.894509645217857,ClaimsPerBeneficiary
+PRV53558,1,6.879805746661268,ClaimsPerBeneficiary
+PRV53569,1,2.6366456961357794,ClaimsPerBeneficiary
+PRV53572,1,5.261027923917443,AverageClaimDuration
+PRV53582,1,11.466342911102114,ClaimsPerBeneficiary
+PRV53584,1,3.372453797382973,ClaimsPerBeneficiary
+PRV53590,2,18.76365243351062,"TotalReimbursement, AverageReimbursement"
+PRV53591,3,56.8546357256369,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53593,1,5.947782151748155,ClaimsPerBeneficiary
+PRV53596,1,2.697963037906381,AverageClaimDuration
+PRV53597,3,33.00069423195244,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53598,2,24.658490615846976,"TotalReimbursement, AverageReimbursement"
+PRV53599,3,23.095681287670384,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53600,3,12.229316923260338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53601,3,15.513287467961689,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53602,3,16.549700098376945,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53604,3,41.22619129874018,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53613,1,5.5661761054538585,AverageReimbursement
+PRV53616,1,2.6154067168047495,TotalReimbursement
+PRV53619,1,4.721435316336167,AverageClaimDuration
+PRV53635,1,4.640271898360462,AverageReimbursement
+PRV53638,1,3.8581749440260467,ClaimsPerBeneficiary
+PRV53642,1,2.9227932910652457,AverageClaimDuration
+PRV53648,1,7.419398354242545,ClaimsPerBeneficiary
+PRV53664,1,2.7776706314671658,AverageClaimDuration
+PRV53665,1,2.7518972130016737,ClaimsPerBeneficiary
+PRV53667,2,49.605549174629644,"TotalReimbursement, AverageReimbursement"
+PRV53668,2,27.24582406158721,"TotalReimbursement, AverageReimbursement"
+PRV53671,2,15.248307182107688,"TotalReimbursement, AverageReimbursement"
+PRV53673,2,19.088481618526224,"TotalReimbursement, AverageReimbursement"
+PRV53675,2,13.492983084572606,"TotalReimbursement, AverageReimbursement"
+PRV53677,3,6.369054190649719,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV53683,2,11.097105996023481,"TotalReimbursement, AverageReimbursement"
+PRV53684,1,2.697963037906381,AverageClaimDuration
+PRV53685,1,2.7987490134603528,ClaimsPerBeneficiary
+PRV53692,3,33.52475288662331,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53697,2,33.6491537124765,"TotalReimbursement, AverageReimbursement"
+PRV53701,1,8.318719366878009,AverageClaimDuration
+PRV53706,3,35.14280040286475,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53710,2,7.752315381479213,"TotalReimbursement, AverageReimbursement"
+PRV53712,3,47.344405362663956,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53724,1,26.305139619587212,AverageClaimDuration
+PRV53726,1,3.372453797382973,ClaimsPerBeneficiary
+PRV53741,1,7.033975063113065,AverageClaimDuration
+PRV53746,3,28.06539599187979,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53749,2,11.221586230823819,"TotalReimbursement, AverageReimbursement"
+PRV53750,1,3.1722137105505874,ClaimsPerBeneficiary
+PRV53762,2,8.716880017295342,"TotalReimbursement, AverageReimbursement"
+PRV53763,3,44.666792242665096,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53769,3,25.675994899794905,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53770,2,18.736398749345227,"TotalReimbursement, AverageReimbursement"
+PRV53774,3,14.202269033792955,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53776,2,15.629164181604175,"TotalReimbursement, AverageReimbursement"
+PRV53781,2,13.077576183170697,"TotalReimbursement, AverageReimbursement"
+PRV53786,1,3.974956741156797,TotalReimbursement
+PRV53787,2,13.404295311258183,"TotalReimbursement, AverageReimbursement"
+PRV53790,2,5.913476541121034,"TotalReimbursement, AverageReimbursement"
+PRV53792,2,17.169476316635997,"TotalReimbursement, AverageReimbursement"
+PRV53797,1,8.057669484303805,TotalReimbursement
+PRV53802,3,19.364566556399712,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53807,1,12.595520374532754,AverageReimbursement
+PRV53808,3,22.177177658286514,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53842,1,10.117361392148927,AverageClaimDuration
+PRV53855,2,27.205794936395723,"TotalReimbursement, AverageReimbursement"
+PRV53857,3,40.117487558830334,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53861,3,17.11918088724486,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53862,3,40.48589656272929,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53865,3,48.62913865884916,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53867,2,20.0196590057034,"TotalReimbursement, AverageReimbursement"
+PRV53868,2,21.8743525143748,"TotalReimbursement, AverageReimbursement"
+PRV53873,2,3.712821202829821,"TotalReimbursement, AverageReimbursement"
+PRV53878,2,4.154211613529038,"TotalReimbursement, AverageReimbursement"
+PRV53884,3,21.907816021215332,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53885,2,11.071749969291602,"TotalReimbursement, AverageReimbursement"
+PRV53892,1,5.668033176520237,AverageReimbursement
+PRV53894,1,5.493513947761062,AverageReimbursement
+PRV53910,2,9.693225732219235,"TotalReimbursement, AverageReimbursement"
+PRV53918,1,6.049858809772694,TotalReimbursement
+PRV53919,3,7.6731214929476685,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53923,1,8.670244270365556,AverageReimbursement
+PRV53924,1,4.721435316336167,AverageClaimDuration
+PRV53925,2,8.067958352955431,"TotalReimbursement, AverageReimbursement"
+PRV53932,2,16.67102880360788,"TotalReimbursement, AverageReimbursement"
+PRV53937,2,23.17024584823138,"TotalReimbursement, AverageReimbursement"
+PRV53938,3,24.698264574951796,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53942,2,11.120293039617229,"TotalReimbursement, AverageReimbursement"
+PRV53944,1,3.1295960747049447,ClaimsPerBeneficiary
+PRV53949,1,4.181842708754891,AverageClaimDuration
+PRV53951,2,13.54913275294966,"TotalReimbursement, AverageReimbursement"
+PRV53959,3,23.934030432239382,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53960,1,3.8345584515970574,ClaimsPerBeneficiary
+PRV53961,3,37.034642156099835,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53963,2,6.624161955059485,"TotalReimbursement, AverageReimbursement"
+PRV53965,1,9.512483347039515,ClaimsPerBeneficiary
+PRV53970,3,52.906397133578785,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV53971,1,2.968682950192308,ClaimsPerBeneficiary
+PRV53979,1,3.7287857357191028,ClaimsPerBeneficiary
+PRV53985,2,2.997936425370245,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV53986,2,8.803199546041323,"TotalReimbursement, AverageReimbursement"
+PRV53990,1,2.5850775551487915,ClaimsPerBeneficiary
+PRV53996,3,8.644997417193922,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54001,2,21.345848413779116,"TotalReimbursement, AverageReimbursement"
+PRV54007,1,6.879805746661271,AverageClaimDuration
+PRV54016,1,4.046944556859572,AverageClaimDuration
+PRV54020,1,13.586171012314274,AverageClaimDuration
+PRV54023,1,2.794318860688751,ClaimsPerBeneficiary
+PRV54027,1,8.431134493457437,ClaimsPerBeneficiary
+PRV54038,1,2.5630648860110594,ClaimsPerBeneficiary
+PRV54039,1,2.822868734105749,ClaimsPerBeneficiary
+PRV54041,1,3.7506201646209,ClaimsPerBeneficiary
+PRV54043,3,33.49970772067089,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54045,1,16.41260848059715,AverageClaimDuration
+PRV54046,1,53.28476999865102,AverageClaimDuration
+PRV54049,1,3.6854634487994815,ClaimsPerBeneficiary
+PRV54050,1,4.721435316336167,AverageClaimDuration
+PRV54051,3,30.533045111916113,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54052,3,60.96738425903077,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54054,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54055,2,33.17335117310249,"TotalReimbursement, AverageReimbursement"
+PRV54056,3,38.41394999001273,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54058,3,31.371517499949906,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54059,2,33.41030934107657,"TotalReimbursement, AverageReimbursement"
+PRV54060,2,31.809144333416995,"TotalReimbursement, AverageReimbursement"
+PRV54061,2,7.049956955077362,"TotalReimbursement, AverageReimbursement"
+PRV54062,2,3.6396085385646697,"TotalReimbursement, AverageReimbursement"
+PRV54063,1,3.061150369932238,ClaimsPerBeneficiary
+PRV54064,2,9.14941614661055,"AverageReimbursement, AverageClaimDuration"
+PRV54065,2,8.944937748470494,"TotalReimbursement, AverageReimbursement"
+PRV54072,2,12.804160508185639,"TotalReimbursement, AverageReimbursement"
+PRV54073,3,11.760625307409976,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54074,2,12.367779973179076,"TotalReimbursement, AverageReimbursement"
+PRV54075,1,3.8482748541892526,TotalReimbursement
+PRV54076,1,4.965061231619706,AverageReimbursement
+PRV54077,3,24.14649611608013,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54078,2,9.02587920968426,"AverageReimbursement, AverageClaimDuration"
+PRV54081,2,27.329637026403283,"TotalReimbursement, AverageReimbursement"
+PRV54082,2,8.383044483667096,"TotalReimbursement, AverageReimbursement"
+PRV54084,1,4.643553730252671,AverageReimbursement
+PRV54085,2,13.840394890481244,"TotalReimbursement, AverageReimbursement"
+PRV54089,2,8.934615730652085,"TotalReimbursement, AverageReimbursement"
+PRV54090,1,8.318263301248974,AverageReimbursement
+PRV54093,2,19.501759079141753,"TotalReimbursement, AverageReimbursement"
+PRV54099,1,3.1868764886794874,AverageReimbursement
+PRV54101,2,7.739975005255133,"TotalReimbursement, AverageReimbursement"
+PRV54102,2,16.27187009628434,"TotalReimbursement, AverageReimbursement"
+PRV54106,2,6.539920811078228,"TotalReimbursement, AverageReimbursement"
+PRV54110,1,7.033975063113065,AverageClaimDuration
+PRV54111,2,12.569752822411873,"TotalReimbursement, AverageReimbursement"
+PRV54112,1,3.872076582180452,ClaimsPerBeneficiary
+PRV54114,2,4.994111127854641,"TotalReimbursement, AverageReimbursement"
+PRV54116,1,35.74801025225953,ClaimsPerBeneficiary
+PRV54121,1,5.9413411977678505,ClaimsPerBeneficiary
+PRV54128,1,11.916003417419843,ClaimsPerBeneficiary
+PRV54130,1,2.628977465110076,ClaimsPerBeneficiary
+PRV54131,1,5.620756328971623,ClaimsPerBeneficiary
+PRV54135,1,18.21125050586807,AverageClaimDuration
+PRV54136,1,4.833850442915596,ClaimsPerBeneficiary
+PRV54139,1,3.1868440132334785,ClaimsPerBeneficiary
+PRV54141,1,10.771413037701985,ClaimsPerBeneficiary
+PRV54142,1,18.211250505868062,ClaimsPerBeneficiary
+PRV54145,3,8.768379873195737,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54149,2,5.9303148971191435,"TotalReimbursement, AverageReimbursement"
+PRV54153,3,7.603115621200439,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54155,1,2.5442052251848373,ClaimsPerBeneficiary
+PRV54159,1,2.7592803796769783,ClaimsPerBeneficiary
+PRV54162,1,4.221812531538685,ClaimsPerBeneficiary
+PRV54163,1,3.7846425948408924,ClaimsPerBeneficiary
+PRV54164,3,6.070416835289357,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54171,1,6.562409397641183,ClaimsPerBeneficiary
+PRV54182,1,13.489815189531905,AverageClaimDuration
+PRV54183,2,6.361480166478911,"TotalReimbursement, AverageReimbursement"
+PRV54185,1,27.654121138540404,AverageClaimDuration
+PRV54186,1,6.263128480854095,ClaimsPerBeneficiary
+PRV54188,1,12.815324430055309,AverageClaimDuration
+PRV54193,1,5.620756328971623,ClaimsPerBeneficiary
+PRV54198,1,8.318719366878009,AverageClaimDuration
+PRV54200,2,38.09932400187822,"TotalReimbursement, AverageReimbursement"
+PRV54201,3,15.398130509026661,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54202,2,39.23411630494557,"TotalReimbursement, AverageReimbursement"
+PRV54204,3,50.43874801354246,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54205,2,20.159840711804204,"TotalReimbursement, AverageReimbursement"
+PRV54208,2,15.661512796043045,"TotalReimbursement, AverageReimbursement"
+PRV54209,1,5.177643841845763,AverageReimbursement
+PRV54213,2,7.709518231494602,"TotalReimbursement, AverageReimbursement"
+PRV54215,2,17.39557002335971,"TotalReimbursement, AverageReimbursement"
+PRV54216,2,10.626907590329905,"TotalReimbursement, AverageReimbursement"
+PRV54217,1,6.520077341607083,ClaimsPerBeneficiary
+PRV54219,1,8.305634913194742,ClaimsPerBeneficiary
+PRV54220,2,21.957730635067556,"TotalReimbursement, AverageReimbursement"
+PRV54222,1,8.155206455489738,ClaimsPerBeneficiary
+PRV54223,1,7.860441935376449,ClaimsPerBeneficiary
+PRV54224,1,4.799637143521856,ClaimsPerBeneficiary
+PRV54225,1,2.562309127270566,ClaimsPerBeneficiary
+PRV54228,1,4.981975620251124,AverageReimbursement
+PRV54230,1,18.02176172935727,AverageReimbursement
+PRV54231,1,2.630215093495628,ClaimsPerBeneficiary
+PRV54232,2,10.790167328745898,"TotalReimbursement, AverageReimbursement"
+PRV54233,1,4.499346895532897,TotalReimbursement
+PRV54240,1,3.3731402631565026,ClaimsPerBeneficiary
+PRV54244,2,13.353635125887445,"TotalReimbursement, AverageReimbursement"
+PRV54245,1,3.4639227603787957,AverageReimbursement
+PRV54246,1,3.0560260336779046,ClaimsPerBeneficiary
+PRV54251,1,4.538824888475459,AverageReimbursement
+PRV54253,2,16.319045326196772,"TotalReimbursement, AverageReimbursement"
+PRV54254,1,5.221466693369216,ClaimsPerBeneficiary
+PRV54258,3,29.69755330938368,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54259,2,11.100888676983276,"TotalReimbursement, AverageReimbursement"
+PRV54262,2,10.117361392148927,"AverageReimbursement, AverageClaimDuration"
+PRV54263,1,3.273747832581523,TotalReimbursement
+PRV54266,2,17.446109952790685,"TotalReimbursement, AverageReimbursement"
+PRV54269,1,5.396392321714832,ClaimsPerBeneficiary
+PRV54271,1,8.24377594915838,ClaimsPerBeneficiary
+PRV54274,1,6.996243801964467,ClaimsPerBeneficiary
+PRV54275,1,10.117361392148927,AverageClaimDuration
+PRV54276,3,4.497357633062353,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54278,1,4.759586428564425,ClaimsPerBeneficiary
+PRV54280,1,3.372453797382973,ClaimsPerBeneficiary
+PRV54282,1,8.155206455489738,ClaimsPerBeneficiary
+PRV54284,2,6.390893470350582,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV54289,1,3.6123354482428534,ClaimsPerBeneficiary
+PRV54293,1,3.2971654157152774,AverageReimbursement
+PRV54295,2,18.21125050586807,"AverageReimbursement, AverageClaimDuration"
+PRV54296,1,8.037446372340348,ClaimsPerBeneficiary
+PRV54297,3,60.72948348280814,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54298,3,40.48186427072646,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54299,1,13.894509645217862,AverageClaimDuration
+PRV54300,1,4.721435316336167,AverageClaimDuration
+PRV54302,1,9.947380406734228,AverageReimbursement
+PRV54305,1,3.8221143037007064,AverageClaimDuration
+PRV54306,1,2.873404109908021,AverageClaimDuration
+PRV54309,1,3.172604683463983,ClaimsPerBeneficiary
+PRV54310,1,13.586171012314274,AverageClaimDuration
+PRV54311,1,17.31192949323261,AverageClaimDuration
+PRV54315,1,5.878855677658644,ClaimsPerBeneficiary
+PRV54320,1,5.02032528772842,ClaimsPerBeneficiary
+PRV54324,3,32.17281372478939,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54325,2,27.405940562353166,"TotalReimbursement, AverageReimbursement"
+PRV54326,3,15.72715039169817,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54327,2,8.664651074500059,"TotalReimbursement, AverageReimbursement"
+PRV54328,1,8.236758413248735,AverageReimbursement
+PRV54333,2,8.694582046348158,"TotalReimbursement, AverageReimbursement"
+PRV54334,1,4.244494151685353,ClaimsPerBeneficiary
+PRV54335,1,4.785197850255305,AverageReimbursement
+PRV54336,1,4.026378678191145,AverageReimbursement
+PRV54337,3,24.60747268792762,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54339,1,5.083467040667964,AverageReimbursement
+PRV54340,1,2.628977465110076,ClaimsPerBeneficiary
+PRV54342,2,3.6833400558384506,"TotalReimbursement, AverageReimbursement"
+PRV54348,3,25.385458527574496,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54349,1,7.3818743835851635,ClaimsPerBeneficiary
+PRV54350,2,8.90131251116497,"TotalReimbursement, AverageReimbursement"
+PRV54352,1,7.997533290936767,ClaimsPerBeneficiary
+PRV54354,2,9.063965529554599,"TotalReimbursement, AverageReimbursement"
+PRV54355,1,6.610009442870631,ClaimsPerBeneficiary
+PRV54356,2,24.04625882935096,"TotalReimbursement, AverageReimbursement"
+PRV54359,3,5.224422674998704,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54361,2,8.082095353561767,"TotalReimbursement, AverageReimbursement"
+PRV54363,2,6.2939741691884965,"TotalReimbursement, AverageReimbursement"
+PRV54365,1,3.1045358340021574,ClaimsPerBeneficiary
+PRV54367,3,28.53067711301868,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54372,1,3.6779766157877067,TotalReimbursement
+PRV54375,2,7.8690304154371535,"TotalReimbursement, AverageReimbursement"
+PRV54377,2,5.612083351846803,"TotalReimbursement, AverageReimbursement"
+PRV54378,2,7.749091013694591,"TotalReimbursement, AverageReimbursement"
+PRV54379,2,12.88230072275312,"AverageReimbursement, AverageClaimDuration"
+PRV54380,1,3.05024822221024,AverageReimbursement
+PRV54381,1,5.689140738230967,AverageReimbursement
+PRV54382,2,14.897441751547147,"TotalReimbursement, AverageReimbursement"
+PRV54384,2,4.961948950825576,"TotalReimbursement, AverageReimbursement"
+PRV54390,3,12.75938137294578,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54402,1,3.380499703637576,AverageReimbursement
+PRV54408,1,11.514319241274094,ClaimsPerBeneficiary
+PRV54409,2,6.022381885059569,"TotalReimbursement, AverageReimbursement"
+PRV54410,1,4.676469265704391,ClaimsPerBeneficiary
+PRV54413,1,4.528723670771423,ClaimsPerBeneficiary
+PRV54414,2,3.5223406328222175,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV54415,1,3.653491613831555,ClaimsPerBeneficiary
+PRV54420,1,12.815324430055309,AverageClaimDuration
+PRV54421,1,4.040571989284546,ClaimsPerBeneficiary
+PRV54423,1,2.8314335204609424,ClaimsPerBeneficiary
+PRV54424,1,26.305139619587212,AverageClaimDuration
+PRV54425,3,13.856081685034031,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54426,2,15.478661114972734,"TotalReimbursement, AverageReimbursement"
+PRV54427,1,8.479957464750099,ClaimsPerBeneficiary
+PRV54429,1,5.415158417319611,ClaimsPerBeneficiary
+PRV54430,1,4.202350238122519,ClaimsPerBeneficiary
+PRV54435,1,3.8783218669904205,ClaimsPerBeneficiary
+PRV54436,2,8.768379873195737,"AverageReimbursement, AverageClaimDuration"
+PRV54456,1,3.372453797382973,ClaimsPerBeneficiary
+PRV54457,1,11.466342911102114,ClaimsPerBeneficiary
+PRV54460,3,37.935992472025085,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54461,2,36.191393097120276,"TotalReimbursement, AverageReimbursement"
+PRV54465,1,9.038176176986372,ClaimsPerBeneficiary
+PRV54471,1,5.620756328971623,ClaimsPerBeneficiary
+PRV54472,1,3.632783564198501,ClaimsPerBeneficiary
+PRV54473,1,16.01915553756913,ClaimsPerBeneficiary
+PRV54479,1,10.117361392148922,ClaimsPerBeneficiary
+PRV54480,3,32.178144525273666,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54491,1,4.181842708754887,ClaimsPerBeneficiary
+PRV54497,3,41.22619129874018,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54498,3,38.30859139784445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54499,2,35.04868208852144,"TotalReimbursement, AverageReimbursement"
+PRV54500,3,39.938546052505956,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54501,3,42.65513714360847,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54502,3,58.95468369022355,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54503,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54504,1,20.399542714490575,AverageReimbursement
+PRV54505,3,4.880931882274012,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54507,2,13.17796240309155,"TotalReimbursement, AverageReimbursement"
+PRV54509,1,9.442870632672333,AverageClaimDuration
+PRV54514,2,8.168533381823217,"TotalReimbursement, AverageReimbursement"
+PRV54517,1,10.7356445883358,ClaimsPerBeneficiary
+PRV54519,1,5.395926075812759,ClaimsPerBeneficiary
+PRV54520,1,3.7403578480065702,ClaimsPerBeneficiary
+PRV54524,1,3.1195197625792512,ClaimsPerBeneficiary
+PRV54526,1,10.064460156111544,ClaimsPerBeneficiary
+PRV54528,1,9.118115822553966,ClaimsPerBeneficiary
+PRV54530,1,26.6423849993255,ClaimsPerBeneficiary
+PRV54537,1,8.037446372340348,ClaimsPerBeneficiary
+PRV54541,1,4.252581983529264,TotalReimbursement
+PRV54542,3,6.074419747808506,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54543,2,7.291305153629781,"TotalReimbursement, AverageReimbursement"
+PRV54544,1,15.063626961643951,ClaimsPerBeneficiary
+PRV54548,1,7.997533290936767,ClaimsPerBeneficiary
+PRV54550,1,6.796791499341071,ClaimsPerBeneficiary
+PRV54551,1,3.1797421518182345,AverageClaimDuration
+PRV54552,1,3.147623544224109,ClaimsPerBeneficiary
+PRV54553,1,5.395926075812759,ClaimsPerBeneficiary
+PRV54554,1,13.489815189531896,ClaimsPerBeneficiary
+PRV54555,3,41.22619129874018,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54558,2,8.377997444828049,"TotalReimbursement, AverageReimbursement"
+PRV54559,2,12.575868211770997,"TotalReimbursement, AverageReimbursement"
+PRV54560,2,17.533188912958952,"TotalReimbursement, AverageReimbursement"
+PRV54561,1,6.831576452851577,AverageReimbursement
+PRV54565,1,17.56612652571719,AverageReimbursement
+PRV54566,2,13.093651991683222,"TotalReimbursement, AverageReimbursement"
+PRV54567,2,5.718966859330814,"TotalReimbursement, AverageReimbursement"
+PRV54569,2,10.589084477772202,"TotalReimbursement, AverageReimbursement"
+PRV54571,2,9.11463180610212,"TotalReimbursement, AverageReimbursement"
+PRV54573,1,2.922793291065244,ClaimsPerBeneficiary
+PRV54575,2,9.30625093719272,"TotalReimbursement, AverageReimbursement"
+PRV54576,3,21.62173197218296,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54577,3,27.867924010197676,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54578,1,3.97112822587238,ClaimsPerBeneficiary
+PRV54580,1,2.9701259759407947,ClaimsPerBeneficiary
+PRV54582,1,3.738767188931353,ClaimsPerBeneficiary
+PRV54585,1,4.52338769732175,ClaimsPerBeneficiary
+PRV54589,1,13.894509645217857,ClaimsPerBeneficiary
+PRV54590,1,3.352034805648883,ClaimsPerBeneficiary
+PRV54591,1,13.264984936373033,ClaimsPerBeneficiary
+PRV54593,1,3.0454279746064423,ClaimsPerBeneficiary
+PRV54596,1,8.92246855715985,ClaimsPerBeneficiary
+PRV54597,1,5.395926075812759,ClaimsPerBeneficiary
+PRV54598,1,2.794318860688751,ClaimsPerBeneficiary
+PRV54599,1,5.947782151748155,ClaimsPerBeneficiary
+PRV54601,1,9.442870632672328,ClaimsPerBeneficiary
+PRV54603,1,2.644342433596526,ClaimsPerBeneficiary
+PRV54604,1,8.978221442810673,ClaimsPerBeneficiary
+PRV54608,1,13.804577543954306,ClaimsPerBeneficiary
+PRV54609,1,13.264984936373033,ClaimsPerBeneficiary
+PRV54610,1,6.520077341607083,ClaimsPerBeneficiary
+PRV54611,1,3.1914928619136456,TotalReimbursement
+PRV54612,1,23.60717658168082,ClaimsPerBeneficiary
+PRV54614,1,9.948738702279774,ClaimsPerBeneficiary
+PRV54616,3,18.449789920804914,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54618,1,4.221812531538685,ClaimsPerBeneficiary
+PRV54619,1,2.922793291065244,ClaimsPerBeneficiary
+PRV54620,2,15.772681823565115,"TotalReimbursement, AverageReimbursement"
+PRV54623,1,17.63895531600913,ClaimsPerBeneficiary
+PRV54625,1,14.935152531267457,ClaimsPerBeneficiary
+PRV54627,1,5.620756328971623,ClaimsPerBeneficiary
+PRV54630,1,11.115784406495127,ClaimsPerBeneficiary
+PRV54633,1,11.466342911102114,ClaimsPerBeneficiary
+PRV54635,1,11.916003417419843,ClaimsPerBeneficiary
+PRV54637,3,50.08372734624817,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54638,3,66.72523220578219,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54639,2,23.80909517941932,"TotalReimbursement, AverageReimbursement"
+PRV54640,2,13.848075859995733,"TotalReimbursement, AverageReimbursement"
+PRV54644,2,9.865702368158098,"TotalReimbursement, AverageReimbursement"
+PRV54646,1,4.1680070008681875,ClaimsPerBeneficiary
+PRV54649,2,13.766065122856533,"TotalReimbursement, AverageReimbursement"
+PRV54651,2,10.339149824235644,"TotalReimbursement, AverageReimbursement"
+PRV54653,2,18.09063018034455,"TotalReimbursement, AverageReimbursement"
+PRV54657,2,31.510119102375796,"TotalReimbursement, AverageReimbursement"
+PRV54658,2,6.763291845164163,"TotalReimbursement, AverageReimbursement"
+PRV54661,2,16.63810588584254,"TotalReimbursement, AverageReimbursement"
+PRV54666,3,8.579193440659619,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54667,2,3.435016392481961,"AverageReimbursement, AverageClaimDuration"
+PRV54672,1,4.528723670771423,ClaimsPerBeneficiary
+PRV54673,3,34.39902873330636,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54674,3,28.528863469875407,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54675,3,46.087206656892455,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54676,3,40.83055927246203,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54677,2,4.3617069112819795,"ClaimsPerBeneficiary, AverageClaimDuration"
+PRV54678,1,13.200747721184785,ClaimsPerBeneficiary
+PRV54679,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54680,3,50.42268754745953,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54686,1,3.572493692868401,AverageReimbursement
+PRV54691,2,3.8747454234503853,"TotalReimbursement, AverageReimbursement"
+PRV54692,3,17.454799864968344,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54696,2,5.656884039150202,"TotalReimbursement, AverageReimbursement"
+PRV54697,1,2.898112061818975,AverageReimbursement
+PRV54705,1,3.12014507564439,AverageReimbursement
+PRV54718,3,40.66744984552493,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54720,2,40.44466209730617,"TotalReimbursement, AverageReimbursement"
+PRV54724,3,23.824423605396603,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54726,1,2.527061535229577,AverageReimbursement
+PRV54728,1,2.5581479732027175,AverageReimbursement
+PRV54735,2,5.394241252933137,"TotalReimbursement, AverageReimbursement"
+PRV54737,2,18.147675369229393,"TotalReimbursement, AverageReimbursement"
+PRV54739,2,19.008180072651317,"TotalReimbursement, AverageReimbursement"
+PRV54742,2,19.628017946795122,"TotalReimbursement, AverageReimbursement"
+PRV54743,1,2.521754033700507,AverageReimbursement
+PRV54757,2,5.094621327948162,"TotalReimbursement, AverageReimbursement"
+PRV54759,2,3.75771662919059,"TotalReimbursement, AverageReimbursement"
+PRV54760,2,24.009745243749443,"TotalReimbursement, AverageReimbursement"
+PRV54764,2,10.06452708581301,"TotalReimbursement, AverageReimbursement"
+PRV54765,3,50.0124092643227,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54768,2,8.602071665918498,"TotalReimbursement, AverageReimbursement"
+PRV54771,2,5.868527406604392,"TotalReimbursement, AverageReimbursement"
+PRV54772,2,11.167209749276891,"TotalReimbursement, AverageReimbursement"
+PRV54773,2,17.6177582601135,"TotalReimbursement, AverageReimbursement"
+PRV54776,2,2.893964099569438,"TotalReimbursement, AverageReimbursement"
+PRV54778,1,5.9363034999086945,TotalReimbursement
+PRV54779,2,14.306259870145338,"TotalReimbursement, AverageReimbursement"
+PRV54781,3,21.421365206641916,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54785,2,8.584814508702138,"TotalReimbursement, AverageReimbursement"
+PRV54787,2,12.560204923194547,"TotalReimbursement, AverageReimbursement"
+PRV54789,3,31.78877277919842,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54793,1,11.466342911102114,ClaimsPerBeneficiary
+PRV54798,1,10.117361392148927,AverageClaimDuration
+PRV54805,1,10.117361392148927,AverageClaimDuration
+PRV54810,1,7.033975063113065,AverageClaimDuration
+PRV54812,2,37.17291671254779,"TotalReimbursement, AverageReimbursement"
+PRV54817,3,50.58680696074464,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54818,3,37.11344276534631,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54819,3,24.13576927633983,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54820,3,38.30859139784445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54821,3,31.355594818594888,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54822,2,26.20506680660849,"TotalReimbursement, AverageReimbursement"
+PRV54824,2,28.339204173700157,"TotalReimbursement, AverageReimbursement"
+PRV54827,1,4.384189936597868,ClaimsPerBeneficiary
+PRV54828,3,6.830597938495576,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54830,1,2.5902705642530726,AverageReimbursement
+PRV54831,2,5.798218783987229,"TotalReimbursement, AverageReimbursement"
+PRV54832,2,4.309003787160935,"TotalReimbursement, AverageReimbursement"
+PRV54833,1,2.8748169608932703,ClaimsPerBeneficiary
+PRV54834,2,10.853897295672331,"TotalReimbursement, AverageReimbursement"
+PRV54837,1,2.643546777797241,TotalReimbursement
+PRV54838,1,3.0413533935205956,ClaimsPerBeneficiary
+PRV54841,3,40.6092790187311,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54845,2,9.951125534692583,"TotalReimbursement, AverageReimbursement"
+PRV54846,2,11.933600456384823,"TotalReimbursement, AverageReimbursement"
+PRV54848,3,33.11415631685309,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54859,1,19.260458353942767,ClaimsPerBeneficiary
+PRV54860,1,19.054363955213805,ClaimsPerBeneficiary
+PRV54862,1,4.046944556859572,ClaimsPerBeneficiary
+PRV54864,1,6.879805746661271,AverageClaimDuration
+PRV54867,2,17.31192949323261,"AverageReimbursement, AverageClaimDuration"
+PRV54875,3,33.41030934107657,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54876,3,62.21459299954656,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54879,2,14.179260526415883,"TotalReimbursement, AverageReimbursement"
+PRV54881,3,31.767335395331898,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54882,1,6.902377520897493,AverageReimbursement
+PRV54883,3,41.568500707167466,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54885,1,5.908490888740249,AverageReimbursement
+PRV54889,2,5.064264067384474,"TotalReimbursement, AverageReimbursement"
+PRV54891,1,4.599426218630035,AverageReimbursement
+PRV54894,3,45.66003081182623,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54895,1,6.349200329964644,TotalReimbursement
+PRV54896,3,21.99244466173337,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54898,2,22.45006248113507,"TotalReimbursement, AverageReimbursement"
+PRV54901,2,15.379550637769462,"TotalReimbursement, AverageReimbursement"
+PRV54903,3,46.16148953881283,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54906,2,21.933153613265564,"TotalReimbursement, AverageReimbursement"
+PRV54909,2,12.023194802177242,"TotalReimbursement, AverageReimbursement"
+PRV54916,2,6.053752945937583,"TotalReimbursement, AverageReimbursement"
+PRV54917,2,11.318078497695108,"TotalReimbursement, AverageReimbursement"
+PRV54918,3,30.66934009994117,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54924,1,7.855804321356546,AverageReimbursement
+PRV54925,1,22.276603895370673,AverageReimbursement
+PRV54926,1,5.1570015667544755,AverageReimbursement
+PRV54929,3,29.297143156560843,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54931,3,15.859381469077423,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54933,2,14.010958290256037,"TotalReimbursement, AverageReimbursement"
+PRV54934,2,7.68410626620569,"TotalReimbursement, AverageReimbursement"
+PRV54936,3,29.96369402732238,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54937,2,2.760301484452511,"TotalReimbursement, AverageReimbursement"
+PRV54942,1,15.350590253434088,AverageReimbursement
+PRV54943,1,2.6905738940615964,AverageReimbursement
+PRV54949,2,5.738230531744696,"TotalReimbursement, AverageReimbursement"
+PRV54950,2,14.076241873587222,"TotalReimbursement, AverageReimbursement"
+PRV54952,1,5.392031996231189,AverageReimbursement
+PRV54955,3,40.20825716106798,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54965,2,4.773410780742893,"TotalReimbursement, AverageReimbursement"
+PRV54968,2,8.00406754207687,"TotalReimbursement, AverageReimbursement"
+PRV54971,2,5.654186557598456,"TotalReimbursement, AverageReimbursement"
+PRV54977,1,4.651118971977775,AverageReimbursement
+PRV54981,3,31.167821236143187,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54986,2,14.882569353055862,"TotalReimbursement, AverageReimbursement"
+PRV54990,2,8.312047846012758,"TotalReimbursement, AverageReimbursement"
+PRV54993,2,11.25812460984669,"TotalReimbursement, AverageReimbursement"
+PRV54997,3,3.2975288751070417,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV54998,3,14.771940255762996,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV54999,2,10.948568755555451,"TotalReimbursement, AverageReimbursement"
+PRV55000,2,7.308066129440452,"TotalReimbursement, AverageReimbursement"
+PRV55004,1,3.8905716026340085,TotalReimbursement
+PRV55005,3,22.58900067854273,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55006,1,2.87149979450777,TotalReimbursement
+PRV55018,3,28.28043268627732,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55019,3,38.4414964956009,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55022,3,30.433737901010012,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55023,3,22.318729840372338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55027,1,5.464271605158085,AverageReimbursement
+PRV55028,1,4.550513842690042,AverageReimbursement
+PRV55029,1,3.2662259629172796,AverageReimbursement
+PRV55030,3,13.49249805968616,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55031,2,4.291675487074704,"TotalReimbursement, AverageReimbursement"
+PRV55039,2,4.6725405529451844,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV55040,3,8.318719366878009,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55041,2,11.770564262557437,"TotalReimbursement, AverageReimbursement"
+PRV55042,1,4.1404994172564065,AverageReimbursement
+PRV55048,3,33.1321763833012,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55049,3,28.35707837992858,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55051,3,48.62913865884916,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55053,1,3.0019753207811295,ClaimsPerBeneficiary
+PRV55067,3,93.72704965633571,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55068,1,9.218040379513468,AverageClaimDuration
+PRV55098,1,3.0285957631400033,ClaimsPerBeneficiary
+PRV55099,1,2.7109239637044746,ClaimsPerBeneficiary
+PRV55106,1,10.117361392148927,AverageClaimDuration
+PRV55110,1,3.978517958072088,ClaimsPerBeneficiary
+PRV55117,1,12.815324430055309,AverageClaimDuration
+PRV55118,3,7.99518314891769,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55120,2,17.9350538501685,"TotalReimbursement, AverageReimbursement"
+PRV55121,2,33.62446516085104,"TotalReimbursement, AverageReimbursement"
+PRV55122,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55124,3,48.62402555920213,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55126,3,50.58680696074464,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55128,3,39.749416203045016,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55129,2,10.708025912242931,"TotalReimbursement, AverageReimbursement"
+PRV55130,3,29.615499906316415,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55131,3,75.79754845505913,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55132,2,30.694860850726194,"TotalReimbursement, AverageReimbursement"
+PRV55133,3,80.68741241904365,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55134,3,35.04868208852144,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55135,3,26.3555905969934,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55136,2,36.43677400097715,"TotalReimbursement, AverageReimbursement"
+PRV55137,3,61.127956563105556,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55138,3,35.29834974594182,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55140,2,26.70333148132097,"TotalReimbursement, AverageReimbursement"
+PRV55141,1,18.21125050586807,AverageClaimDuration
+PRV55143,3,31.78877277919842,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55144,3,66.01782052709008,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55145,2,28.970183640760702,"TotalReimbursement, AverageReimbursement"
+PRV55146,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55147,3,91.56623334748119,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55148,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55149,2,28.006377440225506,"TotalReimbursement, AverageReimbursement"
+PRV55150,3,14.986855655687274,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55151,2,31.78877277919842,"TotalReimbursement, AverageReimbursement"
+PRV55152,2,21.949485437267036,"TotalReimbursement, AverageReimbursement"
+PRV55155,2,21.141364327231717,"TotalReimbursement, AverageReimbursement"
+PRV55156,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55157,3,16.575862669024357,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55158,1,2.5334641073786233,TotalReimbursement
+PRV55160,3,34.228345866265244,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55161,3,44.82841001649048,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55164,1,7.499490224476459,AverageReimbursement
+PRV55165,1,6.325648090525051,AverageReimbursement
+PRV55169,2,6.541026718522654,"TotalReimbursement, AverageReimbursement"
+PRV55171,1,8.075702194726325,AverageReimbursement
+PRV55172,2,27.631505860134425,"TotalReimbursement, AverageReimbursement"
+PRV55175,1,3.0108307663754865,AverageReimbursement
+PRV55179,2,7.314440462643831,"TotalReimbursement, AverageReimbursement"
+PRV55180,1,3.1128997354418053,AverageReimbursement
+PRV55181,1,3.6603385171890106,AverageReimbursement
+PRV55183,2,11.53094471064252,"AverageReimbursement, AverageClaimDuration"
+PRV55185,1,2.5845861801270593,ClaimsPerBeneficiary
+PRV55189,1,13.73319983949611,AverageReimbursement
+PRV55192,1,3.177363836451123,AverageReimbursement
+PRV55193,3,48.60096239329315,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55194,3,22.994023714787545,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55195,2,10.159492683082108,"TotalReimbursement, AverageReimbursement"
+PRV55196,1,3.223716377886295,AverageReimbursement
+PRV55203,2,6.083243905887457,"TotalReimbursement, AverageReimbursement"
+PRV55205,2,13.097616409825573,"TotalReimbursement, AverageReimbursement"
+PRV55208,1,3.774554057840176,AverageReimbursement
+PRV55209,3,21.652030911076693,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55215,1,14.870710264988157,TotalReimbursement
+PRV55225,2,9.496543994083876,"TotalReimbursement, AverageReimbursement"
+PRV55229,1,4.39760006223074,AverageReimbursement
+PRV55230,3,26.639045905963833,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55232,2,11.079502622578778,"TotalReimbursement, AverageReimbursement"
+PRV55236,3,14.463068237731521,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55237,1,4.808714132910827,AverageReimbursement
+PRV55242,2,6.372264277766182,"TotalReimbursement, AverageReimbursement"
+PRV55250,1,4.914891962481255,AverageReimbursement
+PRV55256,2,3.4994028683707903,"TotalReimbursement, AverageReimbursement"
+PRV55261,1,2.9701259759407947,ClaimsPerBeneficiary
+PRV55266,2,5.965200699864255,"TotalReimbursement, AverageReimbursement"
+PRV55268,1,5.382379817881851,ClaimsPerBeneficiary
+PRV55273,1,5.395926075812759,ClaimsPerBeneficiary
+PRV55297,1,4.618042476446829,ClaimsPerBeneficiary
+PRV55298,1,2.644342433596526,ClaimsPerBeneficiary
+PRV55305,2,3.764419083384909,"TotalReimbursement, AverageReimbursement"
+PRV55319,1,5.947782151748155,ClaimsPerBeneficiary
+PRV55325,1,5.935518683394033,ClaimsPerBeneficiary
+PRV55326,1,3.3173280533030205,ClaimsPerBeneficiary
+PRV55344,1,8.431134493457437,ClaimsPerBeneficiary
+PRV55359,1,4.378220031259727,ClaimsPerBeneficiary
+PRV55363,1,3.33576601548676,ClaimsPerBeneficiary
+PRV55366,1,3.69582810718809,ClaimsPerBeneficiary
+PRV55371,1,17.31192949323261,AverageClaimDuration
+PRV55372,1,7.997533290936767,ClaimsPerBeneficiary
+PRV55374,3,39.607171410066535,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55375,2,30.00078343695959,"TotalReimbursement, AverageReimbursement"
+PRV55378,2,26.656592261538705,"TotalReimbursement, AverageReimbursement"
+PRV55379,3,28.887945698558564,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55381,2,18.19777192283107,"TotalReimbursement, AverageReimbursement"
+PRV55382,3,46.37470060718074,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55383,2,24.658490615846976,"TotalReimbursement, AverageReimbursement"
+PRV55385,2,24.658490615846976,"TotalReimbursement, AverageReimbursement"
+PRV55387,3,73.30562985921239,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55390,1,3.2600386708035414,ClaimsPerBeneficiary
+PRV55392,1,7.603107853175287,AverageReimbursement
+PRV55396,2,5.986892851362807,"TotalReimbursement, AverageReimbursement"
+PRV55398,1,6.9135302846350974,ClaimsPerBeneficiary
+PRV55399,3,5.171095822653894,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV55401,1,4.189523829646875,ClaimsPerBeneficiary
+PRV55402,1,6.2203036707285975,ClaimsPerBeneficiary
+PRV55404,1,10.517059619986904,ClaimsPerBeneficiary
+PRV55405,1,108.59301227573178,ClaimsPerBeneficiary
+PRV55408,1,4.844069999877363,ClaimsPerBeneficiary
+PRV55411,1,3.7048115629221656,ClaimsPerBeneficiary
+PRV55412,1,20.571968164036143,ClaimsPerBeneficiary
+PRV55413,1,12.815324430055309,AverageClaimDuration
+PRV55416,1,2.8379410365257915,ClaimsPerBeneficiary
+PRV55417,1,8.768379873195732,ClaimsPerBeneficiary
+PRV55418,3,5.499149642701889,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV55419,1,3.372453797382973,ClaimsPerBeneficiary
+PRV55423,1,7.337641898548411,ClaimsPerBeneficiary
+PRV55424,1,7.419398354242545,ClaimsPerBeneficiary
+PRV55425,1,20.309666202017464,ClaimsPerBeneficiary
+PRV55426,1,3.7287857357191028,ClaimsPerBeneficiary
+PRV55428,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55430,3,64.25758308574588,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55431,3,93.72704965633571,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55433,2,12.789861140529252,"TotalReimbursement, AverageReimbursement"
+PRV55434,2,6.52756544329431,"TotalReimbursement, AverageReimbursement"
+PRV55435,3,49.43951417872272,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55437,2,14.643591147507163,"TotalReimbursement, AverageReimbursement"
+PRV55438,1,2.685284471699073,ClaimsPerBeneficiary
+PRV55441,2,7.148007773231157,"TotalReimbursement, AverageReimbursement"
+PRV55442,2,5.674595019712793,"TotalReimbursement, AverageReimbursement"
+PRV55443,3,37.03296850178698,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55444,3,61.80244179856466,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55445,1,3.4082465650366087,ClaimsPerBeneficiary
+PRV55452,2,21.024575585109353,"TotalReimbursement, AverageReimbursement"
+PRV55456,3,57.92395034431931,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55462,2,31.742667915955654,"TotalReimbursement, AverageReimbursement"
+PRV55467,1,2.9576122892376118,TotalReimbursement
+PRV55472,3,43.404582594500006,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55481,1,3.2845494538652606,ClaimsPerBeneficiary
+PRV55482,3,20.765422418254108,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55483,3,35.60673081126966,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55487,1,2.9801767448003544,ClaimsPerBeneficiary
+PRV55490,2,10.209113981292301,"TotalReimbursement, AverageReimbursement"
+PRV55492,3,30.35994668321837,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55494,1,2.952953446976801,TotalReimbursement
+PRV55495,2,18.61913349253178,"TotalReimbursement, AverageReimbursement"
+PRV55496,2,10.238228027868146,"TotalReimbursement, AverageReimbursement"
+PRV55497,1,7.033975063113065,AverageClaimDuration
+PRV55506,3,25.17168724905622,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV55507,1,6.792883924937928,ClaimsPerBeneficiary
+PRV55509,3,39.40519911629917,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55511,1,10.117361392148927,AverageClaimDuration
+PRV55516,1,7.852638184467912,AverageReimbursement
+PRV55518,1,3.2486655501679267,AverageReimbursement
+PRV55519,2,15.215527528983204,"TotalReimbursement, AverageReimbursement"
+PRV55525,1,3.270593291461404,ClaimsPerBeneficiary
+PRV55528,1,3.3724537973829762,AverageClaimDuration
+PRV55531,3,43.105600204094124,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55539,1,5.620756328971627,AverageClaimDuration
+PRV55540,3,27.393772195033225,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55547,2,19.4435668094196,"TotalReimbursement, AverageReimbursement"
+PRV55549,1,9.054527468125197,ClaimsPerBeneficiary
+PRV55550,3,26.837702946811802,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55555,1,2.57828871590613,AverageReimbursement
+PRV55567,2,9.620377953569287,"TotalReimbursement, AverageReimbursement"
+PRV55569,1,2.794318860688751,ClaimsPerBeneficiary
+PRV55573,2,6.825098817724877,"TotalReimbursement, AverageReimbursement"
+PRV55580,1,5.99508748429535,ClaimsPerBeneficiary
+PRV55583,2,3.5115643214611714,"TotalReimbursement, AverageReimbursement"
+PRV55586,3,67.64777518175158,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55587,1,3.5651654429477175,AverageClaimDuration
+PRV55588,1,3.318898144444098,AverageReimbursement
+PRV55600,3,19.839898925092044,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55603,3,23.63899950589089,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55604,2,25.004193050863808,"TotalReimbursement, AverageReimbursement"
+PRV55606,3,32.178144525273666,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55610,1,4.731525511817404,AverageReimbursement
+PRV55613,1,7.4193983542425475,AverageClaimDuration
+PRV55617,1,26.305139619587212,AverageClaimDuration
+PRV55622,1,4.079543649952801,AverageReimbursement
+PRV55625,1,3.1195197625792512,ClaimsPerBeneficiary
+PRV55634,1,4.8945209772835545,AverageReimbursement
+PRV55637,1,53.28476999865102,AverageClaimDuration
+PRV55638,1,5.800620531498718,AverageClaimDuration
+PRV55642,2,8.768379873195737,"AverageReimbursement, AverageClaimDuration"
+PRV55657,1,4.731525511817404,AverageReimbursement
+PRV55658,3,38.29386261443827,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55659,2,44.41831876873613,"TotalReimbursement, AverageReimbursement"
+PRV55660,3,26.42029657852224,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55661,3,41.37944649295142,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV55662,3,32.20890814933171,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55663,3,28.887945698558564,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55664,2,40.015114997672306,"TotalReimbursement, AverageReimbursement"
+PRV55665,3,28.528863469875407,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55666,2,24.003464921076574,"TotalReimbursement, AverageReimbursement"
+PRV55667,3,41.61456351911426,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55668,3,37.935992472025085,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55670,2,30.95660048150686,"TotalReimbursement, AverageReimbursement"
+PRV55671,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55673,2,5.199085823806263,"TotalReimbursement, AverageReimbursement"
+PRV55675,2,2.874416019017684,"TotalReimbursement, AverageReimbursement"
+PRV55676,3,36.653738082065956,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55678,2,24.86208965643402,"TotalReimbursement, AverageReimbursement"
+PRV55682,2,9.596347516234903,"TotalReimbursement, AverageReimbursement"
+PRV55683,1,10.656953999730197,ClaimsPerBeneficiary
+PRV55689,2,11.051284550751207,"TotalReimbursement, AverageReimbursement"
+PRV55690,2,5.449091818030329,"TotalReimbursement, AverageReimbursement"
+PRV55691,1,9.817587721270435,ClaimsPerBeneficiary
+PRV55699,1,20.00989253113898,ClaimsPerBeneficiary
+PRV55700,2,9.757406069618755,"TotalReimbursement, AverageReimbursement"
+PRV55706,3,38.30859139784445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55707,2,5.308980436243369,"TotalReimbursement, AverageReimbursement"
+PRV55709,2,16.725236726038702,"TotalReimbursement, AverageReimbursement"
+PRV55710,2,4.155334828782122,"TotalReimbursement, AverageReimbursement"
+PRV55714,1,4.015356260646637,AverageReimbursement
+PRV55715,2,4.075316021128344,"TotalReimbursement, AverageReimbursement"
+PRV55717,1,6.72630239482998,ClaimsPerBeneficiary
+PRV55719,1,6.1930515188305515,ClaimsPerBeneficiary
+PRV55720,2,6.209415822593072,"TotalReimbursement, AverageReimbursement"
+PRV55721,1,10.117361392148927,AverageClaimDuration
+PRV55723,1,3.0813221373511532,ClaimsPerBeneficiary
+PRV55726,1,7.194568101083678,ClaimsPerBeneficiary
+PRV55727,1,3.3594719668658537,ClaimsPerBeneficiary
+PRV55728,1,7.033975063113065,AverageClaimDuration
+PRV55729,1,7.697053224332848,ClaimsPerBeneficiary
+PRV55732,2,5.851802477364885,"TotalReimbursement, AverageReimbursement"
+PRV55737,1,4.13571810323311,AverageReimbursement
+PRV55739,2,8.437532661616489,"TotalReimbursement, AverageReimbursement"
+PRV55741,1,8.768379873195737,AverageClaimDuration
+PRV55742,1,3.981094691917645,ClaimsPerBeneficiary
+PRV55749,1,11.46634291110212,AverageClaimDuration
+PRV55750,1,8.498583569405099,AverageClaimDuration
+PRV55753,2,9.13342483044785,"TotalReimbursement, AverageReimbursement"
+PRV55755,2,5.125599502005962,"TotalReimbursement, AverageReimbursement"
+PRV55761,1,4.046944556859572,AverageClaimDuration
+PRV55765,2,17.536759746391468,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV55766,1,5.171095822653896,AverageClaimDuration
+PRV55768,1,3.0917341630549124,ClaimsPerBeneficiary
+PRV55769,2,9.948738702279774,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV55770,1,3.6615212657300873,ClaimsPerBeneficiary
+PRV55771,1,5.901185926224316,ClaimsPerBeneficiary
+PRV55772,1,8.093889113719143,AverageClaimDuration
+PRV55774,2,9.395097307652389,"TotalReimbursement, AverageReimbursement"
+PRV55776,1,14.164305949008499,AverageClaimDuration
+PRV55777,1,5.947782151748155,ClaimsPerBeneficiary
+PRV55779,1,7.033975063113065,AverageClaimDuration
+PRV55780,2,6.165336023062164,"TotalReimbursement, AverageReimbursement"
+PRV55783,3,34.678695633577135,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55790,3,38.75854217870386,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55791,2,36.87845962791953,"TotalReimbursement, AverageReimbursement"
+PRV55792,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55793,3,58.49973513899445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55797,1,35.29834974594182,AverageClaimDuration
+PRV55798,1,8.318719366878009,AverageClaimDuration
+PRV55808,1,6.879805746661268,ClaimsPerBeneficiary
+PRV55809,2,17.14983495782649,"TotalReimbursement, AverageReimbursement"
+PRV55810,3,38.30859139784445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55811,3,66.01782052709008,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55812,3,31.208707455544655,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55813,3,30.533045111916113,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55815,3,9.442870632672333,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55816,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55817,3,34.46697534869922,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55821,1,4.439778066772408,AverageReimbursement
+PRV55826,2,15.110812653983238,"TotalReimbursement, AverageReimbursement"
+PRV55828,1,3.111748748786279,AverageReimbursement
+PRV55830,2,29.25791027774031,"TotalReimbursement, AverageReimbursement"
+PRV55832,1,8.355131954700274,AverageReimbursement
+PRV55836,2,3.9837464311166704,"TotalReimbursement, AverageReimbursement"
+PRV55837,2,16.138918363929157,"TotalReimbursement, AverageReimbursement"
+PRV55846,3,22.923860215158566,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55848,1,2.507578052508741,TotalReimbursement
+PRV55849,3,43.29628097868667,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55850,1,8.784835852361223,AverageReimbursement
+PRV55851,1,3.5892343412280767,TotalReimbursement
+PRV55852,1,3.0591965827306664,ClaimsPerBeneficiary
+PRV55854,1,3.199368136435587,AverageReimbursement
+PRV55858,1,6.610009442870631,ClaimsPerBeneficiary
+PRV55859,1,17.536759746391468,ClaimsPerBeneficiary
+PRV55864,1,4.1391343677782695,ClaimsPerBeneficiary
+PRV55867,1,3.8181545609915744,ClaimsPerBeneficiary
+PRV55868,1,4.406586126927018,ClaimsPerBeneficiary
+PRV55871,1,16.322676379333597,ClaimsPerBeneficiary
+PRV55872,1,3.2307335510474813,ClaimsPerBeneficiary
+PRV55879,1,4.721435316336167,AverageClaimDuration
+PRV55884,1,3.653491613831555,ClaimsPerBeneficiary
+PRV55887,3,53.564436898921805,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55891,2,20.752464182945065,"TotalReimbursement, AverageReimbursement"
+PRV55896,2,6.869490005633982,"TotalReimbursement, AverageReimbursement"
+PRV55900,2,21.763835366612746,"TotalReimbursement, AverageReimbursement"
+PRV55901,1,3.7008376667248033,ClaimsPerBeneficiary
+PRV55903,2,12.88080737909275,"TotalReimbursement, AverageReimbursement"
+PRV55905,3,30.097761484197083,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55907,3,13.144844950923066,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55908,2,17.958682637376537,"TotalReimbursement, AverageReimbursement"
+PRV55911,2,9.936455122913742,"AverageReimbursement, AverageClaimDuration"
+PRV55912,3,28.523420699724653,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55914,2,8.36703814935513,"TotalReimbursement, AverageReimbursement"
+PRV55916,3,62.197444716984286,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV55918,2,4.123053533872513,"TotalReimbursement, AverageReimbursement"
+PRV55925,2,9.15466093129361,"TotalReimbursement, AverageReimbursement"
+PRV55930,2,8.187677587351608,"TotalReimbursement, AverageReimbursement"
+PRV55933,1,4.005093976726134,AverageReimbursement
+PRV55934,1,2.6772008932471913,ClaimsPerBeneficiary
+PRV55939,2,19.97419222837793,"TotalReimbursement, AverageReimbursement"
+PRV55944,2,13.7860917433962,"TotalReimbursement, AverageReimbursement"
+PRV55948,2,9.535834428828302,"TotalReimbursement, AverageReimbursement"
+PRV55951,1,3.648717956369414,AverageReimbursement
+PRV55956,2,10.364037406508434,"TotalReimbursement, AverageReimbursement"
+PRV55957,2,8.422009030240993,"TotalReimbursement, AverageReimbursement"
+PRV55970,2,23.555508680038997,"TotalReimbursement, AverageReimbursement"
+PRV55971,2,9.98257203940673,"TotalReimbursement, AverageReimbursement"
+PRV55972,2,4.814673744852049,"TotalReimbursement, AverageReimbursement"
+PRV55974,1,3.445457849252511,ClaimsPerBeneficiary
+PRV55978,2,12.683798267775343,"TotalReimbursement, AverageReimbursement"
+PRV55981,2,5.945511139089986,"TotalReimbursement, AverageReimbursement"
+PRV55982,1,12.815324430055309,AverageClaimDuration
+PRV55983,2,20.55867792669404,"TotalReimbursement, AverageReimbursement"
+PRV55989,1,26.305139619587212,AverageClaimDuration
+PRV55990,1,4.567690807694527,AverageReimbursement
+PRV55996,2,9.242903960451036,"TotalReimbursement, AverageReimbursement"
+PRV56001,3,25.886859773098028,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56002,2,21.03172817343435,"TotalReimbursement, AverageReimbursement"
+PRV56003,2,17.83199387054861,"TotalReimbursement, AverageReimbursement"
+PRV56004,1,10.117361392148927,AverageClaimDuration
+PRV56007,3,35.950826087167876,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56011,1,4.1547005588497825,TotalReimbursement
+PRV56012,3,35.28973842900151,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56014,2,15.815245162498934,"TotalReimbursement, AverageReimbursement"
+PRV56017,3,46.47323047780635,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56018,2,10.668627878259604,"TotalReimbursement, AverageReimbursement"
+PRV56020,1,5.665979810134178,AverageReimbursement
+PRV56023,2,8.579679710677723,"TotalReimbursement, AverageReimbursement"
+PRV56031,2,11.308227866595734,"TotalReimbursement, AverageReimbursement"
+PRV56033,2,17.355954917066267,"TotalReimbursement, AverageReimbursement"
+PRV56037,1,10.117361392148927,AverageClaimDuration
+PRV56038,1,6.648551771983581,AverageClaimDuration
+PRV56039,1,7.386694765855423,ClaimsPerBeneficiary
+PRV56040,2,4.069145236840571,"TotalReimbursement, AverageReimbursement"
+PRV56041,1,7.571645222435349,ClaimsPerBeneficiary
+PRV56044,2,6.203103675161217,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV56046,2,23.33898144289785,"TotalReimbursement, AverageReimbursement"
+PRV56054,1,3.9258821128509496,ClaimsPerBeneficiary
+PRV56057,2,30.629425943031023,"TotalReimbursement, AverageReimbursement"
+PRV56058,3,22.985438998640987,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56077,1,14.742440885702724,AverageClaimDuration
+PRV56083,1,3.068971764062667,AverageReimbursement
+PRV56092,1,2.8377964880417723,TotalReimbursement
+PRV56093,1,14.742440885702724,AverageClaimDuration
+PRV56101,3,10.117361392148927,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56102,2,8.435908158283045,"TotalReimbursement, AverageReimbursement"
+PRV56103,3,35.00005209242901,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56105,3,31.992161129955086,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56106,3,15.489226232583352,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56108,1,3.7403578480065702,ClaimsPerBeneficiary
+PRV56111,1,2.9928199188692046,ClaimsPerBeneficiary
+PRV56114,1,2.957382560781992,ClaimsPerBeneficiary
+PRV56118,3,23.291368437215798,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56119,2,31.016086761229744,"TotalReimbursement, AverageReimbursement"
+PRV56120,3,28.887945698558564,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56121,3,44.81861002065102,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56122,3,20.92240841478838,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56123,3,54.62364258032646,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56124,3,68.37033161913975,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56125,3,36.290893058667535,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56126,3,24.77519716516469,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56129,3,43.56452797490667,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56130,2,23.00273679128934,"TotalReimbursement, AverageReimbursement"
+PRV56131,2,27.205794936395723,"TotalReimbursement, AverageReimbursement"
+PRV56133,2,27.80623181426806,"TotalReimbursement, AverageReimbursement"
+PRV56134,3,43.38492020475696,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56135,2,9.085113505634395,"TotalReimbursement, AverageReimbursement"
+PRV56138,1,3.331575569535908,ClaimsPerBeneficiary
+PRV56139,3,7.993816300740418,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56140,2,15.599884045742067,"TotalReimbursement, AverageReimbursement"
+PRV56142,2,7.549108115680352,"TotalReimbursement, AverageReimbursement"
+PRV56146,1,5.395926075812759,ClaimsPerBeneficiary
+PRV56147,2,5.691773652229538,"TotalReimbursement, AverageReimbursement"
+PRV56149,1,3.653491613831555,ClaimsPerBeneficiary
+PRV56151,1,3.928414799964104,ClaimsPerBeneficiary
+PRV56158,1,2.997736708784865,ClaimsPerBeneficiary
+PRV56161,2,6.698209175614489,"TotalReimbursement, AverageReimbursement"
+PRV56165,1,4.928970934636654,ClaimsPerBeneficiary
+PRV56170,2,13.669946252893606,"TotalReimbursement, AverageReimbursement"
+PRV56172,2,7.229308088441845,"TotalReimbursement, AverageReimbursement"
+PRV56173,2,10.674476157678306,"TotalReimbursement, AverageReimbursement"
+PRV56176,1,4.181842708754887,ClaimsPerBeneficiary
+PRV56177,1,9.038176176986372,ClaimsPerBeneficiary
+PRV56179,2,2.6121310474719843,"AverageReimbursement, AverageClaimDuration"
+PRV56181,1,3.372453797382973,ClaimsPerBeneficiary
+PRV56184,1,11.466342911102114,ClaimsPerBeneficiary
+PRV56185,1,7.033975063113065,AverageClaimDuration
+PRV56187,1,2.794318860688751,ClaimsPerBeneficiary
+PRV56194,1,6.610009442870631,ClaimsPerBeneficiary
+PRV56196,1,4.271774810018436,AverageClaimDuration
+PRV56198,1,8.431134493457437,ClaimsPerBeneficiary
+PRV56202,3,31.78877277919842,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56210,1,8.380834399990505,AverageReimbursement
+PRV56220,2,2.7099717754638273,"TotalReimbursement, AverageReimbursement"
+PRV56225,2,5.861625419598501,"TotalReimbursement, AverageReimbursement"
+PRV56231,1,7.2305303565994565,AverageReimbursement
+PRV56233,1,5.087372422942019,ClaimsPerBeneficiary
+PRV56235,1,4.313026991205399,AverageReimbursement
+PRV56236,2,4.986514116063854,"TotalReimbursement, AverageReimbursement"
+PRV56238,2,8.178497772233,"TotalReimbursement, AverageReimbursement"
+PRV56243,2,5.412768377122865,"TotalReimbursement, AverageReimbursement"
+PRV56249,2,5.081686932400121,"TotalReimbursement, AverageReimbursement"
+PRV56251,1,4.833850442915596,ClaimsPerBeneficiary
+PRV56253,2,10.558885155505495,"TotalReimbursement, AverageReimbursement"
+PRV56256,1,4.529166971391512,AverageReimbursement
+PRV56257,2,9.520538947314645,"TotalReimbursement, AverageReimbursement"
+PRV56259,1,2.879353581363638,AverageReimbursement
+PRV56260,3,32.32612558058019,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56263,2,3.5766023358595715,"TotalReimbursement, AverageReimbursement"
+PRV56264,2,10.77185355682799,"TotalReimbursement, AverageReimbursement"
+PRV56265,1,8.27165138774413,AverageReimbursement
+PRV56268,2,5.537019416478643,"TotalReimbursement, AverageReimbursement"
+PRV56269,2,15.643382124834028,"TotalReimbursement, AverageReimbursement"
+PRV56272,1,2.922793291065244,ClaimsPerBeneficiary
+PRV56274,2,7.719846822606641,"TotalReimbursement, AverageReimbursement"
+PRV56275,1,5.174139303806675,ClaimsPerBeneficiary
+PRV56276,3,10.290096830551471,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56279,1,2.8493852889156996,ClaimsPerBeneficiary
+PRV56281,1,4.718613179267227,ClaimsPerBeneficiary
+PRV56283,1,17.31192949323261,AverageClaimDuration
+PRV56284,1,2.775152300440624,ClaimsPerBeneficiary
+PRV56285,3,30.604258670840576,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56286,3,74.16759380039761,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56288,3,38.30859139784445,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56289,3,22.307548045128367,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56300,1,6.610009442870631,ClaimsPerBeneficiary
+PRV56305,1,8.24377594915838,ClaimsPerBeneficiary
+PRV56306,1,7.033975063113065,AverageClaimDuration
+PRV56308,1,7.419398354242545,ClaimsPerBeneficiary
+PRV56311,1,10.252259544044241,ClaimsPerBeneficiary
+PRV56316,2,9.218040379513468,"TotalReimbursement, AverageClaimDuration"
+PRV56329,2,36.12128426744688,"TotalReimbursement, AverageReimbursement"
+PRV56335,2,30.20797932575742,"TotalReimbursement, AverageReimbursement"
+PRV56336,2,46.419775028310596,"TotalReimbursement, AverageReimbursement"
+PRV56338,2,27.573615753666697,"TotalReimbursement, AverageReimbursement"
+PRV56339,3,28.528863469875407,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56340,3,61.127956563105556,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56341,3,57.86804725378254,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56342,3,42.04874100541896,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56346,1,3.606277260668193,ClaimsPerBeneficiary
+PRV56347,2,6.093708371398931,"TotalReimbursement, AverageReimbursement"
+PRV56349,2,15.665033339862914,"TotalReimbursement, AverageReimbursement"
+PRV56350,3,29.872880558990452,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56351,1,3.7692130676633235,ClaimsPerBeneficiary
+PRV56352,2,4.924170119804615,"TotalReimbursement, AverageReimbursement"
+PRV56353,1,3.9971277025122003,ClaimsPerBeneficiary
+PRV56354,2,17.757487305195703,"TotalReimbursement, AverageReimbursement"
+PRV56355,1,9.301763779225347,ClaimsPerBeneficiary
+PRV56360,1,4.913838661212704,ClaimsPerBeneficiary
+PRV56361,2,4.653538018618735,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV56363,1,16.01915553756913,ClaimsPerBeneficiary
+PRV56364,1,7.2472479930372256,ClaimsPerBeneficiary
+PRV56367,1,13.264984936373033,ClaimsPerBeneficiary
+PRV56368,1,10.86679556934514,ClaimsPerBeneficiary
+PRV56370,1,23.60717658168082,ClaimsPerBeneficiary
+PRV56374,1,7.337641898548411,ClaimsPerBeneficiary
+PRV56375,1,3.0019753207811295,ClaimsPerBeneficiary
+PRV56376,1,11.466342911102114,ClaimsPerBeneficiary
+PRV56378,1,3.3014547700696477,ClaimsPerBeneficiary
+PRV56379,1,3.7825320222466026,ClaimsPerBeneficiary
+PRV56380,1,12.680426278159985,ClaimsPerBeneficiary
+PRV56381,2,84.31134493457436,"ClaimsPerBeneficiary, AverageClaimDuration"
+PRV56384,1,4.189523829646875,ClaimsPerBeneficiary
+PRV56385,1,5.620756328971623,ClaimsPerBeneficiary
+PRV56388,2,5.877705189724615,"TotalReimbursement, AverageClaimDuration"
+PRV56390,3,32.359105460742995,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56392,3,11.466342911102114,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56394,1,7.419398354242542,ClaimsPerBeneficiary
+PRV56395,3,87.28897487275157,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56396,2,11.180627756817708,"TotalReimbursement, AverageReimbursement"
+PRV56400,2,15.18678772697146,"TotalReimbursement, AverageReimbursement"
+PRV56401,1,3.8600978733725686,ClaimsPerBeneficiary
+PRV56403,2,7.921521907180281,"TotalReimbursement, AverageReimbursement"
+PRV56407,2,3.12422322645154,"TotalReimbursement, AverageReimbursement"
+PRV56408,2,6.7984153135930505,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV56411,3,4.244494151685353,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56412,1,3.181612588378128,TotalReimbursement
+PRV56416,2,18.067691591195967,"TotalReimbursement, AverageReimbursement"
+PRV56421,2,21.74662284462506,"TotalReimbursement, AverageReimbursement"
+PRV56423,1,2.6944459116177653,AverageReimbursement
+PRV56432,2,7.313803902923846,"TotalReimbursement, AverageReimbursement"
+PRV56438,3,36.59732861286795,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56442,2,7.5753198653402105,"TotalReimbursement, AverageReimbursement"
+PRV56445,2,12.758972055229695,"TotalReimbursement, AverageReimbursement"
+PRV56449,1,7.578098920015588,AverageReimbursement
+PRV56451,1,2.7057754031236105,ClaimsPerBeneficiary
+PRV56453,1,3.68996897322702,ClaimsPerBeneficiary
+PRV56456,2,11.571925144891962,"TotalReimbursement, AverageReimbursement"
+PRV56461,2,4.126693170185922,"TotalReimbursement, AverageReimbursement"
+PRV56468,2,4.189273481446699,"TotalReimbursement, AverageReimbursement"
+PRV56469,1,18.292956931552038,AverageReimbursement
+PRV56470,1,2.6872924930020883,TotalReimbursement
+PRV56471,1,5.920529999850109,ClaimsPerBeneficiary
+PRV56473,1,3.2568693669036586,AverageReimbursement
+PRV56475,1,4.921284430255154,ClaimsPerBeneficiary
+PRV56476,3,4.787239292870468,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56478,3,24.009942182507437,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56481,3,30.392416950222874,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56485,1,4.416901070806033,ClaimsPerBeneficiary
+PRV56486,1,3.97112822587238,ClaimsPerBeneficiary
+PRV56490,2,15.33471735758232,"TotalReimbursement, AverageReimbursement"
+PRV56495,1,2.883692377472398,ClaimsPerBeneficiary
+PRV56507,3,27.92481601453351,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56510,1,2.794318860688751,ClaimsPerBeneficiary
+PRV56512,1,3.0285957631400033,ClaimsPerBeneficiary
+PRV56514,1,13.714645442690768,AverageClaimDuration
+PRV56519,3,56.032086018958125,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56522,1,16.41260848059715,AverageClaimDuration
+PRV56524,1,14.61396645532623,AverageClaimDuration
+PRV56527,1,3.1698243558331036,ClaimsPerBeneficiary
+PRV56528,1,6.796791499341071,ClaimsPerBeneficiary
+PRV56530,1,35.29834974594182,AverageClaimDuration
+PRV56533,2,17.598804890438284,"TotalReimbursement, AverageReimbursement"
+PRV56536,1,3.2218844843518983,ClaimsPerBeneficiary
+PRV56538,1,6.1930515188305515,ClaimsPerBeneficiary
+PRV56540,1,12.815324430055309,AverageClaimDuration
+PRV56541,3,37.69605870644586,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56543,3,17.37224980505572,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56544,2,18.925770390536155,"TotalReimbursement, AverageReimbursement"
+PRV56545,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56546,2,25.067458788941774,"TotalReimbursement, AverageReimbursement"
+PRV56547,3,48.62913865884916,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56548,2,44.53434382825415,"TotalReimbursement, AverageReimbursement"
+PRV56549,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56550,3,23.662106958942353,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56555,3,24.51198873982338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56556,2,4.924862535046659,"TotalReimbursement, AverageReimbursement"
+PRV56560,2,21.312039719438793,"TotalReimbursement, AverageReimbursement"
+PRV56562,3,4.151965183022871,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56563,2,11.625075973136534,"TotalReimbursement, AverageReimbursement"
+PRV56570,2,18.908449586782712,"TotalReimbursement, AverageReimbursement"
+PRV56571,3,7.331029626767968,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56574,2,5.637551797798434,"TotalReimbursement, AverageReimbursement"
+PRV56575,2,7.022336760057541,"TotalReimbursement, AverageReimbursement"
+PRV56578,2,4.762665995540438,"TotalReimbursement, AverageReimbursement"
+PRV56579,1,7.472299590279922,ClaimsPerBeneficiary
+PRV56583,2,16.940725938433623,"TotalReimbursement, AverageReimbursement"
+PRV56585,3,19.913928398693134,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56587,1,2.77117358629996,AverageReimbursement
+PRV56588,3,21.690473986940816,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56589,2,5.752898107296271,"TotalReimbursement, AverageReimbursement"
+PRV56591,1,3.6957681508516966,AverageReimbursement
+PRV56592,3,36.504502010843225,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56602,1,2.6133571205762056,ClaimsPerBeneficiary
+PRV56603,2,4.310160462996779,"TotalReimbursement, AverageReimbursement"
+PRV56605,1,9.24429480618512,ClaimsPerBeneficiary
+PRV56606,3,5.654694336287852,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56610,2,8.889599851822615,"TotalReimbursement, AverageReimbursement"
+PRV56614,3,18.175395887277894,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56624,2,33.01532321983357,"TotalReimbursement, AverageReimbursement"
+PRV56628,2,3.144317216971775,"TotalReimbursement, AverageReimbursement"
+PRV56630,2,21.22210972974411,"TotalReimbursement, AverageReimbursement"
+PRV56632,1,9.445436211825916,ClaimsPerBeneficiary
+PRV56639,1,5.654694336287852,ClaimsPerBeneficiary
+PRV56643,2,10.812855169135567,"TotalReimbursement, AverageReimbursement"
+PRV56647,3,41.73203685177714,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56651,1,3.030084010861604,ClaimsPerBeneficiary
+PRV56653,1,2.9315491522278547,ClaimsPerBeneficiary
+PRV56662,2,3.8959944041702816,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV56664,3,10.913940983459565,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56668,3,29.46775725062977,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56669,3,30.543030769470967,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56671,1,2.656965681168836,TotalReimbursement
+PRV56673,3,34.349675750905625,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56674,1,6.819851012485571,ClaimsPerBeneficiary
+PRV56677,1,37.096991771212736,AverageClaimDuration
+PRV56680,2,6.458051910400313,"TotalReimbursement, AverageReimbursement"
+PRV56684,2,5.590338118250133,"TotalReimbursement, AverageReimbursement"
+PRV56685,2,4.491425086663552,"AverageReimbursement, ClaimsPerBeneficiary"
+PRV56686,2,27.606086188310613,"TotalReimbursement, AverageReimbursement"
+PRV56687,1,2.794318860688751,ClaimsPerBeneficiary
+PRV56688,1,5.28942753484277,ClaimsPerBeneficiary
+PRV56689,1,2.5148507599513747,TotalReimbursement
+PRV56691,1,2.697963037906381,AverageClaimDuration
+PRV56694,1,2.67633607968669,AverageClaimDuration
+PRV56696,2,6.799112696000766,"TotalReimbursement, AverageReimbursement"
+PRV56697,1,4.349853935592435,ClaimsPerBeneficiary
+PRV56701,2,5.015933655358437,"TotalReimbursement, AverageReimbursement"
+PRV56703,2,12.591560869013529,"TotalReimbursement, AverageReimbursement"
+PRV56705,2,11.218162334914885,"TotalReimbursement, AverageReimbursement"
+PRV56706,1,4.013256802621005,AverageReimbursement
+PRV56707,1,23.60717658168082,ClaimsPerBeneficiary
+PRV56711,2,4.765473785048215,"TotalReimbursement, AverageReimbursement"
+PRV56712,3,6.7449075947659525,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56713,1,15.815796606055478,AverageReimbursement
+PRV56715,2,3.1223524570358765,"TotalReimbursement, AverageReimbursement"
+PRV56717,1,3.0895091668273404,AverageReimbursement
+PRV56719,2,5.240488337341924,"TotalReimbursement, AverageReimbursement"
+PRV56720,2,3.49438765819119,"TotalReimbursement, AverageReimbursement"
+PRV56722,1,2.574288329581325,AverageReimbursement
+PRV56723,1,7.051494303618948,ClaimsPerBeneficiary
+PRV56724,2,11.918732807228325,"TotalReimbursement, AverageReimbursement"
+PRV56726,2,13.48381082075318,"TotalReimbursement, AverageReimbursement"
+PRV56728,1,8.583225547064904,ClaimsPerBeneficiary
+PRV56730,2,18.931569519263963,"TotalReimbursement, AverageReimbursement"
+PRV56731,2,20.94123684392764,"TotalReimbursement, AverageReimbursement"
+PRV56732,2,23.534696043321496,"TotalReimbursement, AverageReimbursement"
+PRV56734,2,18.726656189378772,"TotalReimbursement, AverageReimbursement"
+PRV56739,2,8.447585487591015,"TotalReimbursement, AverageReimbursement"
+PRV56742,2,12.515790119042201,"TotalReimbursement, AverageReimbursement"
+PRV56746,2,17.897873450257798,"TotalReimbursement, AverageReimbursement"
+PRV56747,1,2.693960125387232,TotalReimbursement
+PRV56748,2,16.86485469726727,"TotalReimbursement, AverageReimbursement"
+PRV56749,2,14.480770591126074,"TotalReimbursement, AverageReimbursement"
+PRV56750,2,5.947081329015173,"TotalReimbursement, AverageReimbursement"
+PRV56753,2,15.426444514134845,"TotalReimbursement, AverageReimbursement"
+PRV56755,2,9.825148778251055,"TotalReimbursement, AverageReimbursement"
+PRV56759,2,6.458365903233323,"TotalReimbursement, AverageReimbursement"
+PRV56761,3,42.16735724526787,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56763,3,16.68119777099369,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56767,2,9.306771607021268,"TotalReimbursement, AverageReimbursement"
+PRV56768,3,13.259501271661847,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56769,2,4.7417415746613045,"TotalReimbursement, AverageReimbursement"
+PRV56773,2,5.958095309981015,"TotalReimbursement, AverageReimbursement"
+PRV56774,3,12.229316923260338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56775,2,5.860263928034038,"TotalReimbursement, AverageReimbursement"
+PRV56777,2,11.396703565410947,"TotalReimbursement, AverageReimbursement"
+PRV56778,2,12.410966938945277,"TotalReimbursement, AverageReimbursement"
+PRV56793,2,5.914655464938721,"TotalReimbursement, AverageReimbursement"
+PRV56800,2,4.9661232596579,"TotalReimbursement, AverageReimbursement"
+PRV56802,2,40.79700390797246,"TotalReimbursement, AverageReimbursement"
+PRV56808,2,23.87046097096261,"TotalReimbursement, AverageReimbursement"
+PRV56809,2,3.7723184274806747,"TotalReimbursement, AverageReimbursement"
+PRV56811,2,4.754589483712162,"TotalReimbursement, AverageReimbursement"
+PRV56818,2,8.099893482497865,"TotalReimbursement, AverageReimbursement"
+PRV56819,3,34.28910202455467,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56830,2,18.21125050586807,"TotalReimbursement, AverageClaimDuration"
+PRV56831,1,5.261027923917443,AverageClaimDuration
+PRV56834,1,19.56023202482125,ClaimsPerBeneficiary
+PRV56835,1,3.5272371612409787,ClaimsPerBeneficiary
+PRV56836,1,2.9227932910652457,AverageClaimDuration
+PRV56837,1,2.822868734105749,ClaimsPerBeneficiary
+PRV56839,2,3.278452462797137,"TotalReimbursement, AverageReimbursement"
+PRV56840,1,6.696503668068379,ClaimsPerBeneficiary
+PRV56846,1,15.513287467961684,ClaimsPerBeneficiary
+PRV56850,1,21.58370430325104,ClaimsPerBeneficiary
+PRV56851,1,21.87277177159815,ClaimsPerBeneficiary
+PRV56852,1,14.164305949008494,ClaimsPerBeneficiary
+PRV56853,1,21.35887405009217,ClaimsPerBeneficiary
+PRV56855,1,8.768379873195737,AverageClaimDuration
+PRV56856,1,7.609209831298656,ClaimsPerBeneficiary
+PRV56857,1,7.509330455506088,ClaimsPerBeneficiary
+PRV56858,1,3.978517958072088,ClaimsPerBeneficiary
+PRV56860,1,17.31192949323261,AverageClaimDuration
+PRV56862,1,8.431134493457437,ClaimsPerBeneficiary
+PRV56863,1,2.6967952570502685,ClaimsPerBeneficiary
+PRV56864,1,5.620756328971623,ClaimsPerBeneficiary
+PRV56866,1,7.845050245205674,ClaimsPerBeneficiary
+PRV56868,1,18.403962151432808,ClaimsPerBeneficiary
+PRV56870,2,25.8476442268457,"TotalReimbursement, AverageReimbursement"
+PRV56873,3,9.08350443976363,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56877,2,17.828234104566626,"TotalReimbursement, AverageReimbursement"
+PRV56878,1,13.489815189531896,ClaimsPerBeneficiary
+PRV56879,2,5.971710870487904,"TotalReimbursement, AverageReimbursement"
+PRV56881,1,5.896263667131883,ClaimsPerBeneficiary
+PRV56882,1,12.680426278159985,ClaimsPerBeneficiary
+PRV56885,3,18.34238615057092,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV56886,1,31.701065695399954,ClaimsPerBeneficiary
+PRV56887,1,13.63288898699663,ClaimsPerBeneficiary
+PRV56889,2,7.723397074075469,"TotalReimbursement, AverageReimbursement"
+PRV56890,1,16.322676379333597,ClaimsPerBeneficiary
+PRV56892,1,18.75084311344934,ClaimsPerBeneficiary
+PRV56893,1,6.648551771983581,AverageClaimDuration
+PRV56895,3,29.390836618801064,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56896,3,64.38786587242858,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56897,2,21.713919769564434,"TotalReimbursement, AverageReimbursement"
+PRV56900,3,30.158818124536914,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56902,3,12.229316923260338,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56903,3,92.0970950016742,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56904,3,22.307548045128367,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56906,3,42.13099597608684,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56908,2,7.437250238555507,"TotalReimbursement, AverageReimbursement"
+PRV56909,3,14.5673553052811,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56910,3,29.92435832897382,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56912,3,73.30562985921239,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56914,3,56.8546357256369,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56915,3,24.692942194496815,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56916,2,29.3296507310861,"TotalReimbursement, AverageReimbursement"
+PRV56917,1,4.370397484960247,AverageReimbursement
+PRV56918,3,116.07821460650868,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV56919,1,3.3724537973829762,AverageClaimDuration
+PRV56923,1,2.5897114345335925,ClaimsPerBeneficiary
+PRV56935,1,3.1026574935923366,ClaimsPerBeneficiary
+PRV56937,1,17.671657898286792,AverageClaimDuration
+PRV56949,1,5.464707462981339,ClaimsPerBeneficiary
+PRV56951,1,16.01915553756913,ClaimsPerBeneficiary
+PRV56956,1,10.117361392148927,AverageClaimDuration
+PRV56976,1,9.667700885831199,AverageClaimDuration
+PRV56990,1,16.88766822053534,ClaimsPerBeneficiary
+PRV57016,3,38.5340373655872,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57017,3,45.33974593326631,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57018,2,39.32419112165475,"TotalReimbursement, AverageReimbursement"
+PRV57020,3,42.87129071209773,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57021,2,27.708224706639612,"TotalReimbursement, AverageReimbursement"
+PRV57023,2,33.610454967034016,"TotalReimbursement, AverageReimbursement"
+PRV57024,3,42.30955696661845,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57025,2,9.246076821683177,"TotalReimbursement, AverageReimbursement"
+PRV57030,2,11.56651765206849,"TotalReimbursement, AverageReimbursement"
+PRV57031,1,6.142943367393701,AverageReimbursement
+PRV57033,2,13.402431771300115,"TotalReimbursement, AverageReimbursement"
+PRV57034,2,9.653830332668672,"TotalReimbursement, AverageReimbursement"
+PRV57049,2,47.55021985189343,"TotalReimbursement, AverageReimbursement"
+PRV57051,1,17.31192949323261,AverageClaimDuration
+PRV57057,1,9.397904582040555,ClaimsPerBeneficiary
+PRV57058,1,15.850532847699979,ClaimsPerBeneficiary
+PRV57067,1,3.995060652284446,ClaimsPerBeneficiary
+PRV57069,3,11.46634291110212,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57072,3,23.952647458485917,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57073,2,30.694860850726194,"TotalReimbursement, AverageReimbursement"
+PRV57074,3,47.80658895217038,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57075,3,25.268954160552397,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57076,3,15.513287467961689,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57077,3,30.702136342757417,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57078,2,20.977777057993798,"TotalReimbursement, AverageReimbursement"
+PRV57080,3,185.00451031738012,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57081,3,45.18863445442572,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57082,3,81.53112692600014,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57084,2,21.728642623795846,"TotalReimbursement, AverageReimbursement"
+PRV57085,3,33.823243938631215,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57086,3,42.87129071209773,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57087,3,24.77519716516469,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57088,3,13.790079622218107,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57089,3,22.70785556904537,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57091,3,37.11344276534631,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57092,3,24.956158100634024,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57093,3,18.21125050586807,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57094,3,53.28476999865102,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57096,2,41.723617111348084,"TotalReimbursement, AverageReimbursement"
+PRV57097,3,22.009044851229383,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57098,3,34.74787972327855,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57101,1,6.555715629185445,AverageReimbursement
+PRV57102,2,11.684501643395734,"TotalReimbursement, AverageReimbursement"
+PRV57103,1,5.204340557611022,TotalReimbursement
+PRV57104,1,5.255582921124551,AverageReimbursement
+PRV57108,1,3.9686450016199912,AverageReimbursement
+PRV57112,1,8.947025669660455,AverageReimbursement
+PRV57113,3,22.59544044246594,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57116,1,5.106858607465649,AverageClaimDuration
+PRV57117,3,15.92498667502459,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57118,1,2.967759341697018,ClaimsPerBeneficiary
+PRV57120,2,12.66543285376221,"TotalReimbursement, AverageReimbursement"
+PRV57121,2,7.981473987139705,"TotalReimbursement, ClaimsPerBeneficiary"
+PRV57124,2,5.236931569687362,"TotalReimbursement, AverageReimbursement"
+PRV57126,2,7.967527397747258,"TotalReimbursement, AverageReimbursement"
+PRV57127,2,13.550321952651519,"TotalReimbursement, AverageReimbursement"
+PRV57129,1,6.58012262119709,AverageReimbursement
+PRV57130,1,11.016682404784387,AverageClaimDuration
+PRV57131,1,26.305139619587212,AverageClaimDuration
+PRV57132,1,14.50155132874679,ClaimsPerBeneficiary
+PRV57133,1,29.67759341697018,ClaimsPerBeneficiary
+PRV57136,1,3.44163233681647,ClaimsPerBeneficiary
+PRV57137,1,5.920529999850109,ClaimsPerBeneficiary
+PRV57138,1,8.318719366878009,AverageClaimDuration
+PRV57141,2,34.11682340070635,"TotalReimbursement, AverageReimbursement"
+PRV57142,1,7.997533290936767,ClaimsPerBeneficiary
+PRV57143,1,7.4193983542425475,AverageClaimDuration
+PRV57144,2,24.658490615846976,"TotalReimbursement, AverageReimbursement"
+PRV57145,3,56.8546357256369,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57146,2,32.592473173886056,"TotalReimbursement, AverageReimbursement"
+PRV57148,2,7.320466901447749,"TotalReimbursement, AverageReimbursement"
+PRV57157,1,5.4030755751069375,AverageReimbursement
+PRV57158,1,7.262216960291987,AverageReimbursement
+PRV57161,1,5.620756328971627,AverageClaimDuration
+PRV57162,3,6.52708675538204,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57165,2,3.1489339620193753,"TotalReimbursement, AverageReimbursement"
+PRV57166,1,9.96271090529192,AverageReimbursement
+PRV57169,2,19.67897318008337,"TotalReimbursement, AverageReimbursement"
+PRV57172,3,8.630654992791877,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57173,2,8.216091295802144,"TotalReimbursement, AverageReimbursement"
+PRV57174,2,4.993383335662545,"TotalReimbursement, AverageReimbursement"
+PRV57177,2,7.1707821758848915,"TotalReimbursement, AverageReimbursement"
+PRV57179,1,8.006595998217016,AverageReimbursement
+PRV57185,1,3.0653433590312105,AverageReimbursement
+PRV57188,2,8.548219684642547,"TotalReimbursement, AverageReimbursement"
+PRV57191,2,15.84214642343939,"TotalReimbursement, AverageReimbursement"
+PRV57196,2,3.61150326561793,"TotalReimbursement, AverageReimbursement"
+PRV57197,3,3.6123354482428534,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57204,1,8.198725792806444,AverageReimbursement
+PRV57205,2,4.1465311336999395,"TotalReimbursement, AverageReimbursement"
+PRV57208,2,7.673721046492252,"TotalReimbursement, AverageReimbursement"
+PRV57210,2,14.077818374521076,"TotalReimbursement, AverageReimbursement"
+PRV57215,2,12.002189742007095,"TotalReimbursement, AverageReimbursement"
+PRV57216,2,3.254366296982856,"TotalReimbursement, AverageReimbursement"
+PRV57217,2,5.513832028739418,"TotalReimbursement, AverageReimbursement"
+PRV57223,2,17.36233425140537,"TotalReimbursement, AverageReimbursement"
+PRV57225,1,13.12195460622309,AverageReimbursement
+PRV57227,3,11.91134716957336,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57230,1,8.112216952988888,AverageReimbursement
+PRV57231,2,12.081241137637438,"TotalReimbursement, AverageReimbursement"
+PRV57234,2,13.576966200586394,"TotalReimbursement, AverageReimbursement"
+PRV57235,2,4.471253283889358,"TotalReimbursement, AverageReimbursement"
+PRV57236,1,4.633514892265352,ClaimsPerBeneficiary
+PRV57238,1,2.7987490134603528,ClaimsPerBeneficiary
+PRV57240,1,5.039790585048498,ClaimsPerBeneficiary
+PRV57241,1,2.6353271517093164,AverageClaimDuration
+PRV57242,1,5.120895990548817,ClaimsPerBeneficiary
+PRV57244,1,12.815324430055309,AverageClaimDuration
+PRV57245,1,9.840269341417105,ClaimsPerBeneficiary
+PRV57246,2,8.318719366878009,"TotalReimbursement, AverageClaimDuration"
+PRV57248,1,7.869058860560277,AverageClaimDuration
+PRV57251,2,30.20797932575742,"TotalReimbursement, AverageReimbursement"
+PRV57252,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57257,1,5.947782151748155,ClaimsPerBeneficiary
+PRV57263,1,5.221466693369216,ClaimsPerBeneficiary
+PRV57264,1,3.372453797382973,ClaimsPerBeneficiary
+PRV57269,1,6.731682285756602,ClaimsPerBeneficiary
+PRV57273,1,5.395926075812759,ClaimsPerBeneficiary
+PRV57276,1,4.721435316336164,ClaimsPerBeneficiary
+PRV57282,1,3.354467377130264,ClaimsPerBeneficiary
+PRV57284,2,26.96711888501546,"TotalReimbursement, AverageReimbursement"
+PRV57285,2,29.44341824105611,"TotalReimbursement, AverageReimbursement"
+PRV57288,1,3.51818415198546,ClaimsPerBeneficiary
+PRV57289,1,4.528723670771423,ClaimsPerBeneficiary
+PRV57290,3,88.83718569235118,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57293,3,23.431586096562587,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57294,3,22.25819506272764,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57295,2,35.27997831136615,"TotalReimbursement, AverageReimbursement"
+PRV57297,2,18.40127756749657,"TotalReimbursement, AverageReimbursement"
+PRV57298,3,14.40258979614235,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57299,3,32.178144525273666,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57301,2,3.886154627341744,"TotalReimbursement, AverageReimbursement"
+PRV57302,3,10.923460104694128,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57303,2,3.3998301870323204,"TotalReimbursement, AverageReimbursement"
+PRV57304,1,7.622592223206208,ClaimsPerBeneficiary
+PRV57306,1,3.3755791728838203,TotalReimbursement
+PRV57307,2,14.607975973976451,"TotalReimbursement, AverageReimbursement"
+PRV57309,2,11.073168158934775,"TotalReimbursement, AverageReimbursement"
+PRV57310,3,32.226712503783354,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57316,2,14.950684429016984,"TotalReimbursement, AverageReimbursement"
+PRV57317,2,10.405091692402303,"TotalReimbursement, AverageReimbursement"
+PRV57320,2,10.403781281685202,"TotalReimbursement, AverageReimbursement"
+PRV57321,2,6.3818990606568615,"TotalReimbursement, AverageReimbursement"
+PRV57322,2,6.015818645826052,"TotalReimbursement, AverageReimbursement"
+PRV57324,1,9.173764293857587,AverageReimbursement
+PRV57326,3,29.71049540523734,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57330,3,7.554123129368342,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57331,1,7.396801555961156,AverageReimbursement
+PRV57334,3,22.514040539545057,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57340,2,21.641549888784844,"TotalReimbursement, AverageReimbursement"
+PRV57341,3,26.563099478377833,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57344,1,3.357908250538121,AverageReimbursement
+PRV57345,2,17.697841892712923,"TotalReimbursement, AverageReimbursement"
+PRV57347,1,4.048862736831979,AverageReimbursement
+PRV57350,2,6.706156668534574,"TotalReimbursement, AverageReimbursement"
+PRV57355,1,3.2225669619437305,ClaimsPerBeneficiary
+PRV57356,1,6.621410876629151,ClaimsPerBeneficiary
+PRV57357,2,21.941964973714875,"TotalReimbursement, AverageReimbursement"
+PRV57358,1,5.4100367611574605,ClaimsPerBeneficiary
+PRV57361,1,3.0591965827306664,ClaimsPerBeneficiary
+PRV57364,2,11.452090370269765,"TotalReimbursement, AverageReimbursement"
+PRV57366,1,7.997533290936767,ClaimsPerBeneficiary
+PRV57367,1,3.8783218669904205,ClaimsPerBeneficiary
+PRV57369,2,15.800382752393274,"TotalReimbursement, AverageReimbursement"
+PRV57372,2,14.20230210578208,"TotalReimbursement, AverageReimbursement"
+PRV57374,1,8.318719366878009,AverageClaimDuration
+PRV57375,1,5.003084595816353,ClaimsPerBeneficiary
+PRV57379,2,6.7089190986738405,"TotalReimbursement, AverageReimbursement"
+PRV57381,1,12.831316540112633,ClaimsPerBeneficiary
+PRV57382,3,3.1370059519376396,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57385,1,4.4757717261155365,ClaimsPerBeneficiary
+PRV57388,1,2.794318860688751,ClaimsPerBeneficiary
+PRV57391,1,4.928970934636654,ClaimsPerBeneficiary
+PRV57397,3,52.74188719224303,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57398,3,54.17348336988313,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57399,3,185.00451031738012,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57400,3,23.55427654849102,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57401,2,22.81813383692039,"TotalReimbursement, AverageReimbursement"
+PRV57403,3,33.41030934107657,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57404,2,7.027396230916433,"TotalReimbursement, AverageReimbursement"
+PRV57406,2,25.460761198883787,"TotalReimbursement, AverageReimbursement"
+PRV57409,2,9.706742017634358,"TotalReimbursement, AverageReimbursement"
+PRV57414,3,29.67652332344258,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57415,1,4.044053587179195,ClaimsPerBeneficiary
+PRV57425,2,15.18156379927384,"AverageReimbursement, AverageClaimDuration"
+PRV57426,1,2.807769825679672,ClaimsPerBeneficiary
+PRV57427,2,13.875443028601682,"TotalReimbursement, AverageReimbursement"
+PRV57433,2,5.879655712453001,"TotalReimbursement, AverageReimbursement"
+PRV57437,2,8.027034009737804,"TotalReimbursement, AverageReimbursement"
+PRV57438,3,3.979190215382709,"TotalReimbursement, AverageReimbursement, ClaimsPerBeneficiary"
+PRV57440,1,12.815324430055309,AverageClaimDuration
+PRV57441,1,3.158477917566187,ClaimsPerBeneficiary
+PRV57443,1,5.221466693369216,ClaimsPerBeneficiary
+PRV57449,1,2.7583666734170214,ClaimsPerBeneficiary
+PRV57455,1,8.318719366878009,AverageClaimDuration
+PRV57468,1,5.395926075812759,ClaimsPerBeneficiary
+PRV57472,1,12.815324430055309,AverageClaimDuration
+PRV57477,1,3.717695232149936,ClaimsPerBeneficiary
+PRV57481,3,43.851787257809846,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57484,1,5.395926075812759,ClaimsPerBeneficiary
+PRV57486,1,4.626769946585062,ClaimsPerBeneficiary
+PRV57487,3,27.005649310438276,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57489,2,35.41176560065103,"TotalReimbursement, AverageReimbursement"
+PRV57490,2,39.25456161903401,"TotalReimbursement, AverageReimbursement"
+PRV57492,1,16.34556570673627,AverageReimbursement
+PRV57495,2,14.654700407075014,"TotalReimbursement, AverageReimbursement"
+PRV57502,3,26.524505371910436,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57510,1,10.087276961691387,AverageReimbursement
+PRV57515,2,5.471959889918739,"TotalReimbursement, AverageReimbursement"
+PRV57518,1,3.894789337015034,ClaimsPerBeneficiary
+PRV57519,1,3.479495904225668,AverageReimbursement
+PRV57521,2,3.5700399139825905,"TotalReimbursement, AverageReimbursement"
+PRV57523,1,4.808226747310282,AverageReimbursement
+PRV57525,2,7.246808071670595,"TotalReimbursement, AverageReimbursement"
+PRV57527,3,22.951537159839205,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57530,2,4.3849123373549315,"TotalReimbursement, AverageReimbursement"
+PRV57533,2,10.648622055054318,"TotalReimbursement, AverageReimbursement"
+PRV57543,2,6.886518323290405,"TotalReimbursement, AverageReimbursement"
+PRV57547,2,8.413972161497307,"TotalReimbursement, AverageReimbursement"
+PRV57548,3,29.54916629698745,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57555,2,35.841237118265475,"TotalReimbursement, AverageReimbursement"
+PRV57557,1,5.768158718957018,ClaimsPerBeneficiary
+PRV57558,1,4.3795908093225115,AverageReimbursement
+PRV57560,2,13.859271577921845,"TotalReimbursement, AverageReimbursement"
+PRV57563,1,3.3724537973829762,AverageClaimDuration
+PRV57565,2,4.49112139846611,"TotalReimbursement, AverageReimbursement"
+PRV57567,2,26.447317404963623,"TotalReimbursement, AverageReimbursement"
+PRV57568,2,7.830634946160484,"TotalReimbursement, AverageReimbursement"
+PRV57570,1,12.815324430055309,AverageClaimDuration
+PRV57573,1,6.014209271999637,ClaimsPerBeneficiary
+PRV57575,1,4.652256776902667,ClaimsPerBeneficiary
+PRV57577,1,3.73525519613445,ClaimsPerBeneficiary
+PRV57578,1,26.305139619587212,AverageClaimDuration
+PRV57584,1,3.858087144206122,ClaimsPerBeneficiary
+PRV57586,1,3.5405299458439554,AverageClaimDuration
+PRV57588,1,26.305139619587212,AverageClaimDuration
+PRV57593,2,11.771023316024372,"TotalReimbursement, AverageReimbursement"
+PRV57595,1,5.087372422942019,ClaimsPerBeneficiary
+PRV57600,1,3.8865943780914085,AverageReimbursement
+PRV57609,2,18.21125050586807,"AverageReimbursement, AverageClaimDuration"
+PRV57610,1,5.620756328971623,ClaimsPerBeneficiary
+PRV57612,3,25.17824652143729,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57617,1,17.31192949323261,AverageClaimDuration
+PRV57624,1,2.957382560781992,ClaimsPerBeneficiary
+PRV57625,1,6.2203036707285975,ClaimsPerBeneficiary
+PRV57629,2,34.90559716091023,"TotalReimbursement, AverageReimbursement"
+PRV57630,3,18.033206211711253,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57631,2,44.41831876873613,"TotalReimbursement, AverageReimbursement"
+PRV57632,3,18.749135541906366,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57633,3,29.67759341697019,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57634,2,20.24163434642316,"TotalReimbursement, AverageReimbursement"
+PRV57635,2,54.02530881469357,"TotalReimbursement, AverageReimbursement"
+PRV57636,3,22.307548045128367,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57638,2,22.580932296525404,"TotalReimbursement, AverageReimbursement"
+PRV57640,2,8.618270653727652,"TotalReimbursement, AverageReimbursement"
+PRV57641,1,5.559384254845751,ClaimsPerBeneficiary
+PRV57642,1,6.902636476430375,AverageReimbursement
+PRV57643,1,10.321374591229379,ClaimsPerBeneficiary
+PRV57646,1,7.337641898548411,ClaimsPerBeneficiary
+PRV57647,1,11.129097531363815,ClaimsPerBeneficiary
+PRV57650,1,15.693151670488774,ClaimsPerBeneficiary
+PRV57651,1,2.922793291065244,ClaimsPerBeneficiary
+PRV57652,1,17.536759746391468,ClaimsPerBeneficiary
+PRV57653,1,2.6503548125694847,ClaimsPerBeneficiary
+PRV57654,1,8.037446372340348,ClaimsPerBeneficiary
+PRV57657,1,6.709913095111101,ClaimsPerBeneficiary
+PRV57663,1,2.9227932910652457,AverageClaimDuration
+PRV57667,3,29.003102657493592,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57682,2,17.31192949323261,"AverageReimbursement, AverageClaimDuration"
+PRV57690,2,2.9611789440435885,"TotalReimbursement, AverageReimbursement"
+PRV57691,1,6.046146456496475,ClaimsPerBeneficiary
+PRV57697,3,26.395822672101183,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57699,3,27.442227033434403,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57702,2,15.163032622536157,"TotalReimbursement, AverageReimbursement"
+PRV57704,3,21.295811905913475,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57706,1,10.117361392148927,AverageClaimDuration
+PRV57709,1,10.480877040228018,AverageReimbursement
+PRV57711,3,25.98811254560326,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57712,1,2.7443400287353312,AverageReimbursement
+PRV57714,1,12.815324430055309,AverageClaimDuration
+PRV57715,2,3.783544854927327,"TotalReimbursement, AverageReimbursement"
+PRV57717,2,6.612389998492316,"TotalReimbursement, AverageReimbursement"
+PRV57719,2,12.424392758809823,"TotalReimbursement, AverageReimbursement"
+PRV57728,3,15.513287467961689,"TotalReimbursement, AverageReimbursement, AverageClaimDuration"
+PRV57729,2,18.65874731158374,"TotalReimbursement, AverageReimbursement"
+PRV57730,1,3.978517958072088,ClaimsPerBeneficiary
+PRV57732,1,4.943880730372454,AverageReimbursement
+PRV57733,1,4.3617069112819795,ClaimsPerBeneficiary
+PRV57735,1,5.620756328971627,AverageClaimDuration
+PRV57740,1,2.8047461441161023,AverageClaimDuration
+PRV57757,2,28.071515914947202,"TotalReimbursement, AverageReimbursement"
+PRV57758,1,53.28476999865102,AverageClaimDuration
+PRV57760,1,8.4186439238375,ClaimsPerBeneficiary
+PRV57762,1,5.383507373682007,AverageReimbursement

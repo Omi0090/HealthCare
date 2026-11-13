@@ -1,0 +1,154 @@
+{
+  "model": "LightGBM",
+  "metrics": {
+    "Accuracy": 0.9334975369458128,
+    "Precision": 0.6309523809523809,
+    "Recall": 0.6973684210526315,
+    "F1": 0.6625,
+    "ROC_AUC": 0.9439895594965675,
+    "PR_AUC": 0.751549294641712
+  },
+  "confusion_matrix": [
+    [
+      705,
+      31
+    ],
+    [
+      23,
+      53
+    ]
+  ],
+  "confusion_matrix_labels": [
+    [
+      "TN",
+      "FP"
+    ],
+    [
+      "FN",
+      "TP"
+    ]
+  ],
+  "best_threshold_F1": 0.4,
+  "best_threshold_F1_score": 0.6783625730994152,
+  "threshold_table": [
+    {
+      "Threshold": 0.1,
+      "Precision": 0.5079365079365079,
+      "Recall": 0.8421052631578947,
+      "F1": 0.6336633663366337,
+      "Accuracy": 0.9088669950738916
+    },
+    {
+      "Threshold": 0.15,
+      "Precision": 0.5344827586206896,
+      "Recall": 0.8157894736842105,
+      "F1": 0.6458333333333334,
+      "Accuracy": 0.916256157635468
+    },
+    {
+      "Threshold": 0.2,
+      "Precision": 0.5495495495495496,
+      "Recall": 0.8026315789473685,
+      "F1": 0.6524064171122995,
+      "Accuracy": 0.9199507389162561
+    },
+    {
+      "Threshold": 0.25,
+      "Precision": 0.5504587155963303,
+      "Recall": 0.7894736842105263,
+      "F1": 0.6486486486486487,
+      "Accuracy": 0.9199507389162561
+    },
+    {
+      "Threshold": 0.3,
+      "Precision": 0.5619047619047619,
+      "Recall": 0.7763157894736842,
+      "F1": 0.6519337016574586,
+      "Accuracy": 0.9224137931034483
+    },
+    {
+      "Threshold": 0.35,
+      "Precision": 0.5959595959595959,
+      "Recall": 0.7763157894736842,
+      "F1": 0.6742857142857143,
+      "Accuracy": 0.9298029556650246
+    },
+    {
+      "Threshold": 0.4,
+      "Precision": 0.6105263157894737,
+      "Recall": 0.7631578947368421,
+      "F1": 0.6783625730994152,
+      "Accuracy": 0.9322660098522167
+    },
+    {
+      "Threshold": 0.45,
+      "Precision": 0.6352941176470588,
+      "Recall": 0.7105263157894737,
+      "F1": 0.6708074534161491,
+      "Accuracy": 0.9347290640394089
+    },
+    {
+      "Threshold": 0.5,
+      "Precision": 0.6309523809523809,
+      "Recall": 0.6973684210526315,
+      "F1": 0.6625,
+      "Accuracy": 0.9334975369458128
+    },
+    {
+      "Threshold": 0.55,
+      "Precision": 0.65,
+      "Recall": 0.6842105263157895,
+      "F1": 0.6666666666666666,
+      "Accuracy": 0.9359605911330049
+    },
+    {
+      "Threshold": 0.6,
+      "Precision": 0.6538461538461539,
+      "Recall": 0.6710526315789473,
+      "F1": 0.6623376623376623,
+      "Accuracy": 0.9359605911330049
+    },
+    {
+      "Threshold": 0.65,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.6578947368421053,
+      "F1": 0.6622516556291391,
+      "Accuracy": 0.937192118226601
+    },
+    {
+      "Threshold": 0.7,
+      "Precision": 0.6911764705882353,
+      "Recall": 0.618421052631579,
+      "F1": 0.6527777777777778,
+      "Accuracy": 0.9384236453201971
+    },
+    {
+      "Threshold": 0.75,
+      "Precision": 0.7213114754098361,
+      "Recall": 0.5789473684210527,
+      "F1": 0.6423357664233577,
+      "Accuracy": 0.9396551724137931
+    },
+    {
+      "Threshold": 0.8,
+      "Precision": 0.75,
+      "Recall": 0.5526315789473685,
+      "F1": 0.6363636363636364,
+      "Accuracy": 0.9408866995073891
+    },
+    {
+      "Threshold": 0.85,
+      "Precision": 0.7407407407407407,
+      "Recall": 0.5263157894736842,
+      "F1": 0.6153846153846154,
+      "Accuracy": 0.9384236453201971
+    }
+  ],
+  "caveat": "Metrics on US Medicare provider-level data. High-risk \u2260 proof of fraud. Report training performance vs test performance separately.",
+  "minority_class_focus": {
+    "recall": 0.6973684210526315,
+    "precision": 0.6309523809523809,
+    "pr_auc": 0.751549294641712,
+    "note": "With ~9.35% fraud prevalence, PR-AUC and Recall are primary; accuracy is misleading"
+  }
+}
