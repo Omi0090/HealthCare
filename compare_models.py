@@ -1,0 +1,28 @@
+import pandas as pd
+
+results = [
+    ["Logistic Regression", 0.3, 0.3097, 0.9505, 0.4672],
+    ["Logistic Regression", 0.4, 0.3690, 0.9208, 0.5269],
+    ["Logistic Regression", 0.5, 0.4218, 0.8812, 0.5705],
+    ["Logistic Regression", 0.6, 0.4624, 0.8515, 0.5993],
+
+    ["Random Forest", 0.3, 0.4556, 0.8119, 0.5836],
+    ["Random Forest", 0.4, 0.5099, 0.7624, 0.6111],
+    ["Random Forest", 0.5, 0.5750, 0.6832, 0.6244],
+    ["Random Forest", 0.6, 0.6818, 0.5941, 0.6349]
+]
+
+columns = [
+    "Model",
+    "Threshold",
+    "Precision",
+    "Recall",
+    "F1_Score"
+]
+
+df = pd.DataFrame(results, columns=columns)
+
+df.to_csv("reports/model_comparison.csv", index=False)
+
+print("Model comparison report saved successfully!")
+print(df)

@@ -1,0 +1,3 @@
+ClaimType,TotalClaims,ExactFullDuplicates,ExactContentDuplicates,SameProviderDiagMatchClaims,SameProviderOtherClaims,CrossProviderClaims,TotalDuplicateGroups,TotalFlaggedClaims,FlaggedPercentage,ReportPath
+Inpatient,40474,0,0,0,2,0,1,2,0.005%,reports\inpatient_duplicate_claims_report.csv
+Outpatient,517737,0,0,6,154,270,215,430,0.083%,reports\outpatient_duplicate_claims_report.csv
